@@ -50,19 +50,13 @@ async def get_data(session, page):
                     game_url = f'https://steam-account.ru{game.find("a").get("href")}'
                 except:
                     game_url = "Url not found"
-                try:
-                    game_image = f'https://steam-account.ru{game.find("img", class_="img-responsive").get("src")}'
-                except:
-                    game_image = "Image not found"
-
                 game_list.append({"game_name": game_name,
                                   "game_price": game_price,
                                   "game_url": game_url,
-                                  "game_image": game_image
                                   })
         except:
             games = 'Games not found'
-        print(page)
+        print(f'[INFO] Обработано: {page}')
 
 
 def create_json():

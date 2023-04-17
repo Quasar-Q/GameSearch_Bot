@@ -41,7 +41,6 @@ async def get_data(session, page):
             with open(f"C:/Users/Евгений/PycharmProjects/Test_Scrap/scrapping_scripts/async_html/{page}.html", "w",
                       encoding="utf-8") as f:
                 f.write(html)
-            print(page)
         except:
             resp = "Not found"
 
@@ -74,15 +73,9 @@ def pars_from_html():
                 game_price = f'{game.find("div", class_="product-item__cost").text.strip(" р")} руб.'
             except:
                 game_price = "Price not found"
-            try:
-                game_image = game.find("div", class_="product-item__img").find("img").get("src")
-            except:
-                game_image = "Image not found"
             game_list.append({"game_name": game_name,
                               "game_price": game_price,
                               "game_url": game_url,
-                              "game_image": game_image
-
                               })
         print(offset)
 
