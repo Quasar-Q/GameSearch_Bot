@@ -39,7 +39,6 @@ async def get_jsons(session, page):
         assert resp.status == 200
         responce = await resp.json(content_type=None)
         games = responce["products"]
-        print(games)
         for game in games:
             try:
                 game_url = f'https://steampay.com{game.get("url")}'
@@ -50,10 +49,6 @@ async def get_jsons(session, page):
             except:
                 game_name = "Name not found"
             try:
-                game_image = f'https://steampay.com{game.get("img")}'
-            except:
-                game_image = "Image not found"
-            try:
                 game_price = game.get("price")
             except:
                 game_price = "Price not found"
@@ -61,14 +56,12 @@ async def get_jsons(session, page):
                 "game_name": game_name,
                 "game_price": f'{game_price.strip(" ₽")} руб.',
                 "game_url": game_url,
-                "game_image": game_image
-
             })
-        print(page)
+        print(f'[INFO] Обработано: {page}')
 
 
 def create_json():
-    with open("C:/Users/Евгений/PycharmProjects/Test_Scrap/Jsons/steampay_game_list.json", "w",
+    with open("../database/steampay_game_list.json", "w",
               encoding="utf-8") as file:
         json.dump(game_list, file, indent=4, ensure_ascii=False)
 
