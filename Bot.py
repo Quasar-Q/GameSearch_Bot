@@ -1,11 +1,14 @@
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.markdown import hlink
-from aiogram.types import KeyboardButton, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKeyboardMarkup
+from dotenv import load_dotenv, find_dotenv
 from aiogram.dispatcher.filters import Text
 from dotenv import load_dotenv
 import emoji, sqlite3, time, os
-load_dotenv()
-bot = Bot("TOKEN")
+
+load_dotenv(find_dotenv())
+TOKEN = os.environ.get("TOKEN")
+bot = Bot(TOKEN)
+
 dp = Dispatcher(bot)
 
 
