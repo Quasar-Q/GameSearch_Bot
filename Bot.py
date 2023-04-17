@@ -25,7 +25,7 @@ async def f(message: types.Message):
         await message.answer('Такое количество символов недопустимо')
     else:
         game_name = (f"%{message.text}%",)
-        with sqlite3.connect('C:/Users/Евгений/PycharmProjects/Test_Scrap/games.db') as connection:
+        with sqlite3.connect('./database/games.db') as connection:
             cursor = connection.cursor()
             cursor.execute("""SELECT * from games where Name LIKE ?""", game_name)
             records = cursor.fetchall()

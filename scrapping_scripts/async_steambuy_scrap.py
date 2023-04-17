@@ -28,6 +28,7 @@ async def get_offset_c():
         for page in range(0, (count // 20) + 1):
             task = asyncio.create_task(get_data(session, page))
             tasks.append(task)
+
         await asyncio.gather(*tasks)
 
 
@@ -38,7 +39,7 @@ async def get_data(session, page):
             resp = await responce.json(content_type=None)
             assert responce.status == 200
             html = resp.get("html")
-            with open(f"C:/Users/Евгений/PycharmProjects/Test_Scrap/scrapping_scripts/async_html/{page}.html", "w",
+            with open(f"../scrapping_scripts/async_html/{page}.html", "w",
                       encoding="utf-8") as f:
                 f.write(html)
         except:
@@ -55,7 +56,7 @@ def get_offset():
 
 def pars_from_html():
     for offset in range(0, get_offset() + 1):
-        with open(f"C:/Users/Евгений/PycharmProjects/Test_Scrap/scrapping_scripts/async_html/{offset}.html",
+        with open(f"../scrapping_scripts/async_html/{offset}.html",
                   encoding="utf-8") as f:
             src = f.read()
         soup = BeautifulSoup(src, "lxml")
@@ -77,18 +78,18 @@ def pars_from_html():
                               "game_price": game_price,
                               "game_url": game_url,
                               })
-        print(offset)
+        print(f'[INFO] Обработано: {offset}')
 
 
 def create_json():
-    with open("C:/Users/Евгений/PycharmProjects/Test_Scrap/Jsons/steambuy_game_list.json", "w",
+    with open("../database/steambuy_game_list.json", "w",
               encoding="utf-8") as f:
         json.dump(game_list, f, indent=4, ensure_ascii=False)
 
 
 def main():
-    loop = asyncio.get_event_loop()
-    loop.run_until_complete(get_offset_c())
+    # loop = asyncio.get_event_loop()
+    # loop.run_until_complete(get_offset_c())
     pars_from_html()
     create_json()
 

@@ -60,7 +60,7 @@ async def get_data(session, page):
 
 
 def create_json():
-    with open("C:/Users/Евгений/PycharmProjects/Test_Scrap/Jsons/steamaccount_game_list.json", "w", encoding="utf-8") as f:
+    with open("../database/steamaccount_game_list.json", "w", encoding="utf-8") as f:
         json.dump(game_list, f, indent=4, ensure_ascii=False)
 
 

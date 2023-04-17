@@ -1,8 +1,8 @@
 import json, sqlite3
 
-PATHS = ['/Jsons/steamaccount_game_list.json',
-         '/Jsons/steambuy_game_list.json',
-         '/Jsons/steampay_game_list.json']
+PATHS = ['./steamaccount_game_list.json',
+         './steambuy_game_list.json',
+         './steampay_game_list.json']
 
 GAME_LIST = []
 for path in PATHS:
@@ -11,20 +11,20 @@ for path in PATHS:
         games = json.loads(files)
         for game in range(len(games)):
             GAME_LIST.append((game, games[game - 1]["game_name"], games[game - 1]["game_price"],
-                              games[game - 1]["game_url"], games[game - 1]["game_image"]))
+                              games[game - 1]["game_url"]))
 
 
 def create_base():
     with sqlite3.connect('games.db') as connection:
         cursor = connection.cursor()
-        cursor.execute("CREATE TABLE games(ID,Name,Price,Url,Image)")
+        cursor.execute("CREATE TABLE games(ID,Name,Price,Url)")
         connection.commit()
 
 
 def add_data():
     with sqlite3.connect('games.db') as connection:
         cursor = connection.cursor()
-        add_columns = """INSERT INTO games(ID,Name,Price,Url,Image) VALUES (?,?,?,?,?);"""
+        add_columns = """INSERT INTO games(ID,Name,Price,Url) VALUES (?,?,?,?);"""
         cursor.executemany(add_columns, GAME_LIST)
         connection.commit()
 
@@ -49,7 +49,6 @@ def main():
     finally:
         delete_data()
         add_data()
-
 
 if __name__ == "__main__":
     main()
