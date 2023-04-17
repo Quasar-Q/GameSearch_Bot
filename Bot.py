@@ -2,7 +2,6 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.markdown import hlink
 from dotenv import load_dotenv, find_dotenv
 from aiogram.dispatcher.filters import Text
-from dotenv import load_dotenv
 import emoji, sqlite3, time, os
 
 load_dotenv(find_dotenv())
