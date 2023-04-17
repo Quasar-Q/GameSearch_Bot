@@ -88,8 +88,8 @@ def create_json():
 
 
 def main():
-    # loop = asyncio.get_event_loop()
-    # loop.run_until_complete(get_offset_c())
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(get_offset_c())
     pars_from_html()
     create_json()
 
