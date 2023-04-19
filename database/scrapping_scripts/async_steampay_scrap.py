@@ -6,11 +6,11 @@ import aiohttp
 user = UserAgent()
 HEADERS = {"Accept": "application/json, text/javascript, */*; q=0.01",
            "User-Agent": user.random,
-           "X-CSRF-TOKEN": "elGbByZQQDefbajKV4LhAwZfX0rcv5lD1d39Zh3k",
+           "X-CSRF-TOKEN": "CHECK YOUR CSRFTOKEN on site and PASTE",
            "X-Requested-With": "XMLHttpRequest"
            }
 COOKIES = {
-    "Cookie": "XSRF-TOKEN=eyJpdiI6Ing4Nk9jMjlxak51dU9Zb0ZzQ2hValE9PSIsInZhbHVlIjoiQ1hzSExUYmVJYXBKMjg0eDA1NEg4QzRsbndkZGRmQUFPTHBcL2Y2RGFcLzVXMFJVa3ZEZm82YWxGaEFVRWVhalVtUnR6ZGpLT1lxQko5cjVjRk5jRktZQT09IiwibWFjIjoiYTNmYjRkYjAxNmZkYjJmZmQ0YzkyNTYwNGJlNjEyOWFlYmQ4MWMwM2NmYTkxMjcyZDVkMmM0OTk3MDRmMGFkYiJ9; laravel_session=KQHXvX0phf6Ys15RaYaXxZ5ohqKdJX9nj6TXR6mr; tmr_lvid=a81afa3980cb4bdd36d6c432af593b95; tmr_lvidTS=1677238349641; _ga=GA1.2.1575595540.1677238350; _ym_uid=167723835024006340; _ym_d=1677238350; _gid=GA1.2.1325068562.1678446322; _ym_isad=1; _ym_visorc=w; tmr_detect=1%7C1678446422133; _gat_gtag_UA_38248504_1=1"
+    "Cookie": "CHECK YOUR COOKIE on site and PASTE"
 
 }
 game_list = []
