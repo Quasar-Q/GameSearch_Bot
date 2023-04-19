@@ -1,0 +1,5257 @@
+[
+    {
+        "game_name": "Sid Meier's Civilization VI",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meier-s-civilization-vi"
+    },
+    {
+        "game_name": "Tomb Raider",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/tomb-raider-kupit"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Game of the Year Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-collectors-bundle"
+    },
+    {
+        "game_name": "Farming Simulator 2013 Titanium Edition",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/farming-simulator-2013-buy"
+    },
+    {
+        "game_name": "Random Steam key - Region Free",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/random-steam-key-region-free"
+    },
+    {
+        "game_name": "Mad Max",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/mad-max"
+    },
+    {
+        "game_name": "Fall Guys: Ultimate Knockout",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/fall-guys-ultimate-knockout"
+    },
+    {
+        "game_name": "Depth",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/depth"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Beyond the Baltic Sea",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-beyond-the-baltic-sea"
+    },
+    {
+        "game_name": "F.E.A.R. 2: Project Origin",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/fear_2_project_origin_lupit"
+    },
+    {
+        "game_name": "Goat Simulator (Симулятор козла)",
+        "game_price": "285 руб.",
+        "game_url": "https://steam-account.ru/oplata/goat-simulator"
+    },
+    {
+        "game_name": "American Truck Simulator",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/american-truck-simulator"
+    },
+    {
+        "game_name": "METAL GEAR SOLID V: The Definitive Experience",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/metal-gear-solid-5-the-definitive-experience"
+    },
+    {
+        "game_name": "Deadpool",
+        "game_price": "3999 руб.",
+        "game_url": "https://steam-account.ru/oplata/deadpool-the-game-kupit"
+    },
+    {
+        "game_name": "Worms Revolution",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-revolution-kupit"
+    },
+    {
+        "game_name": "A Story About My Uncle",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/a-story-about-my-uncle"
+    },
+    {
+        "game_name": "DiRT 3 Complete Edition",
+        "game_price": "375 руб.",
+        "game_url": "https://steam-account.ru/oplata/dirt_3_kupit"
+    },
+    {
+        "game_name": "The Darkness II",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/darkness_2_kupit"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Cabin Accessories",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-cabin-accessories"
+    },
+    {
+        "game_name": "Batman: Arkham Origins",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-origins"
+    },
+    {
+        "game_name": "BioShock: The Collection",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/bioshock-triple-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-4"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Vive la France !",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-vive-la-france"
+    },
+    {
+        "game_name": "Prototype 2",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/prototype_2_kupit"
+    },
+    {
+        "game_name": "Commander: Conquest of the Americas",
+        "game_price": "22 руб.",
+        "game_url": "https://steam-account.ru/oplata/commander-conquest-of-the-americas"
+    },
+    {
+        "game_name": "Timberman",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/timberman"
+    },
+    {
+        "game_name": "Hero Siege",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/hero-siege"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 Gold Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-gold-bundle"
+    },
+    {
+        "game_name": "LEGO Star Wars: The Complete Saga",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-star-wars-the-complete-saga"
+    },
+    {
+        "game_name": "Resident Evil 3",
+        "game_price": "935 руб.",
+        "game_url": "https://steam-account.ru/oplata/resident-evil-3"
+    },
+    {
+        "game_name": "METAL GEAR SOLID V: GROUND ZEROES",
+        "game_price": "58 руб.",
+        "game_url": "https://steam-account.ru/oplata/metal-gear-solid-5-ground-zeroes"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Italia",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-italia"
+    },
+    {
+        "game_name": "Stellaris",
+        "game_price": "223 руб.",
+        "game_url": "https://steam-account.ru/oplata/stellaris"
+    },
+    {
+        "game_name": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-elder-scrolls-3-morrowind-game-of-the-year-edition"
+    },
+    {
+        "game_name": "Elite Dangerous",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/elite-dangerous"
+    },
+    {
+        "game_name": "Mortal Kombat 11",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-xi"
+    },
+    {
+        "game_name": "The Walking Dead: Season 2",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-season-2"
+    },
+    {
+        "game_name": "Borderlands 3",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-3"
+    },
+    {
+        "game_name": "Resident Evil 5 Gold Edition",
+        "game_price": "455 руб.",
+        "game_url": "https://steam-account.ru/oplata/resident-evil-5-gold-edition"
+    },
+    {
+        "game_name": "Silent Hill Homecoming",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/silent-hill-homecoming"
+    },
+    {
+        "game_name": "LEGO Star Wars III: The Clone Wars",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-star-wars-iii-the-clone-wars"
+    },
+    {
+        "game_name": "Prison Architect",
+        "game_price": "110 руб.",
+        "game_url": "https://steam-account.ru/oplata/prison-architect"
+    },
+    {
+        "game_name": "Duke Nukem Forever",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/duke_nukem_forever_kupit"
+    },
+    {
+        "game_name": "Outlast Whistleblower DLC",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/outlast-whistleblower-dlc"
+    },
+    {
+        "game_name": "Worms W.M.D",
+        "game_price": "239 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-w-m-d"
+    },
+    {
+        "game_name": "Hitman: Blood Money",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-blood-money"
+    },
+    {
+        "game_name": "Crysis 2 Maximum Edition",
+        "game_price": "740 руб.",
+        "game_url": "https://steam-account.ru/oplata/crysis-2"
+    },
+    {
+        "game_name": "Worms Ultimate Mayhem",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms_ultimate_mayhem_kupit"
+    },
+    {
+        "game_name": "Dead by Daylight",
+        "game_price": "720 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-by-daylight"
+    },
+    {
+        "game_name": "Killing Floor",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/killing_floor_kupit"
+    },
+    {
+        "game_name": "Company of Heroes 2",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/company-of-heroes-2"
+    },
+    {
+        "game_name": "ARMA 2 Combined Operations + DayZ Mod",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma_II_combined_operations_kupit"
+    },
+    {
+        "game_name": "Fallout: New Vegas Ultimate Edition",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-new-vegas-ultimate-edition"
+    },
+    {
+        "game_name": "Super Meat Boy",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/super_meat_boy_kupit"
+    },
+    {
+        "game_name": "Just Cause 2",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/just_cause_2_kupit"
+    },
+    {
+        "game_name": "Dishonored 2",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/dishonored-2"
+    },
+    {
+        "game_name": "The Sims 3",
+        "game_price": "1149 руб.",
+        "game_url": "https://steam-account.ru/oplata/the_sims_3_kupit"
+    },
+    {
+        "game_name": "Space Engineers",
+        "game_price": "899 руб.",
+        "game_url": "https://steam-account.ru/oplata/space-engineers"
+    },
+    {
+        "game_name": "Warhammer: Vermintide 2",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-vermintide-2"
+    },
+    {
+        "game_name": "Serious Sam 3: BFE",
+        "game_price": "365 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious_sam_3_kupit"
+    },
+    {
+        "game_name": "Outlast",
+        "game_price": "275 руб.",
+        "game_url": "https://steam-account.ru/oplata/outlast"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Going East!",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-going-east"
+    },
+    {
+        "game_name": "The Escapists 2",
+        "game_price": "298 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-escapists-2"
+    },
+    {
+        "game_name": "The Elder Scrolls V: Skyrim Special Edition",
+        "game_price": "990 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-elder-scrolls-v-skyrim-special-edition"
+    },
+    {
+        "game_name": "Duck Game",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/duck-game"
+    },
+    {
+        "game_name": "PAYDAY 2: Lycanwulf and The One Below Mask",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-lycanwulf-and-the-one-below-mask"
+    },
+    {
+        "game_name": "Assetto Corsa",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/asseto-corsa"
+    },
+    {
+        "game_name": "Hitman: Absolution",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman_absolution_kupit"
+    },
+    {
+        "game_name": "Dead Cells",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-cells"
+    },
+    {
+        "game_name": "The Walking Dead",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-kupit"
+    },
+    {
+        "game_name": "Star Wars: Battlefront 2 (Classic, 2005)",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-battlefront-2"
+    },
+    {
+        "game_name": "Gothic Universe Edition (Gothic 1+ Gothic 2 Gold + Gothic 3)",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/gothic-universe-edition"
+    },
+    {
+        "game_name": "Euro Truck Simulator",
+        "game_price": "54 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator"
+    },
+    {
+        "game_name": "Fallout 3: Game of the Year Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-3-game-of-the-year-edition"
+    },
+    {
+        "game_name": "BattleBlock Theater",
+        "game_price": "395 руб.",
+        "game_url": "https://steam-account.ru/oplata/battleblock-theater"
+    },
+    {
+        "game_name": "Mortal Kombat XL",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-xl"
+    },
+    {
+        "game_name": "Spec Ops: The Line",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/spec_ops_the_line"
+    },
+    {
+        "game_name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/vedmak_2_kupit"
+    },
+    {
+        "game_name": "Two Worlds Epic Edition",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/two-worlds-epic-edition"
+    },
+    {
+        "game_name": "S.T.A.L.K.E.R.: Bundle (Shadow of Chernobyl + Clear Sky + Call of Pripyat)",
+        "game_price": "1645 руб.",
+        "game_url": "https://steam-account.ru/oplata/stalker-bundle-gog"
+    },
+    {
+        "game_name": "Dishonored - Definitive Edition",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/dishonored-definitive-edition"
+    },
+    {
+        "game_name": "Ori and the Blind Forest: Definitive Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/ori-and-the-blind-forest"
+    },
+    {
+        "game_name": "PAYDAY 2: John Wick Weapon Pack",
+        "game_price": "85 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-john-wick-weapon-pack"
+    },
+    {
+        "game_name": "BioShock 2 Remastered",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/bioshock-2-remastered"
+    },
+    {
+        "game_name": "Serious Sam 2",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-2"
+    },
+    {
+        "game_name": "The Evil Within",
+        "game_price": "279 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-evil-within-kupit"
+    },
+    {
+        "game_name": "X-Blades",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/x-blades"
+    },
+    {
+        "game_name": "TEKKEN 7",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/tekken-7"
+    },
+    {
+        "game_name": "Worms Armageddon",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-armageddon"
+    },
+    {
+        "game_name": "Warhammer 40,000: Space Marine",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer_40000_space_marine_kupit"
+    },
+    {
+        "game_name": "Need For Speed: Hot Pursuit 2010",
+        "game_price": "1399 руб.",
+        "game_url": "https://steam-account.ru/oplata/need_for_speed_hot_pursuit_kupit"
+    },
+    {
+        "game_name": "Fallout 4: Game of the Year Edition",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-4-game-of-the-year-edition"
+    },
+    {
+        "game_name": "Thief",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/thief-kupit"
+    },
+    {
+        "game_name": "Wolfenstein: The New Order",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-the-new-order"
+    },
+    {
+        "game_name": "Naruto to Boruto: Shinobi Striker",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-to-boruto-shinobi-striker"
+    },
+    {
+        "game_name": "This War of Mine",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/this-war-of-mine"
+    },
+    {
+        "game_name": "Инди-Сюрприз",
+        "game_price": "50 руб.",
+        "game_url": "https://steam-account.ru/oplata/kupit_steam_kluch_surprise"
+    },
+    {
+        "game_name": "Элита сюрприз",
+        "game_price": "70 руб.",
+        "game_url": "https://steam-account.ru/oplata/platinum-steam"
+    },
+    {
+        "game_name": "CS GO - Prime Status Upgrade (Counter-Strike: Global Offensive)",
+        "game_price": "1599 руб.",
+        "game_url": "https://steam-account.ru/oplata/cs_go_kupit"
+    },
+    {
+        "game_name": "Premium сюрприз",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/premium-steam-key"
+    },
+    {
+        "game_name": "Terraria",
+        "game_price": "295 руб.",
+        "game_url": "https://steam-account.ru/oplata/terraria_kupit"
+    },
+    {
+        "game_name": "Garry's Mod",
+        "game_price": "785 руб.",
+        "game_url": "https://steam-account.ru/oplata/garrys_mod_kupit"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2",
+        "game_price": "371 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2"
+    },
+    {
+        "game_name": "Metro: Last Light",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-last-light"
+    },
+    {
+        "game_name": "Counter-Strike 1.6",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/counter_strike_1_6_steam_cs_kupit"
+    },
+    {
+        "game_name": "The Elder Scrolls V: Skyrim",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/skyrim_kupit"
+    },
+    {
+        "game_name": "Left 4 Dead 2",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/left_4_dead_2_kupit"
+    },
+    {
+        "game_name": "DiRT Rally",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/dirt-rally"
+    },
+    {
+        "game_name": "Fallout: New Vegas",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout_new_vegas_kupit"
+    },
+    {
+        "game_name": "Spintires",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/spintires"
+    },
+    {
+        "game_name": "Don't Starve Together",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/dont-starve-together"
+    },
+    {
+        "game_name": "PAYDAY 2",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2"
+    },
+    {
+        "game_name": "Super-Steam сюрприз",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/super-steam-surprise"
+    },
+    {
+        "game_name": "Hearts of Iron IV",
+        "game_price": "288 руб.",
+        "game_url": "https://steam-account.ru/oplata/hearts-of-iron-iv"
+    },
+    {
+        "game_name": "Human: Fall Flat",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/human-fall-flat"
+    },
+    {
+        "game_name": "Arma 3",
+        "game_price": "2773 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-3-kupit"
+    },
+    {
+        "game_name": "Rocket League",
+        "game_price": "2790 руб.",
+        "game_url": "https://steam-account.ru/oplata/rocket-league"
+    },
+    {
+        "game_name": "Project Zomboid",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/project-zomboid"
+    },
+    {
+        "game_name": "Sid Meier's Civilization V",
+        "game_price": "109 руб.",
+        "game_url": "https://steam-account.ru/oplata/civilization_5_kupit"
+    },
+    {
+        "game_name": "Chivalry: Medieval Warfare",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/chivalry-medieval-warfare-kupit"
+    },
+    {
+        "game_name": "Tabletop Simulator",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/tabletop-simulator"
+    },
+    {
+        "game_name": "Call of Duty: Black ops",
+        "game_price": "369 руб.",
+        "game_url": "https://steam-account.ru/oplata/call-of-duty-black-ops"
+    },
+    {
+        "game_name": "Dishonored",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/dishonored_kupit_kluch"
+    },
+    {
+        "game_name": "Borderlands 2",
+        "game_price": "365 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-2-kupit"
+    },
+    {
+        "game_name": "The Elder Scrolls V: Skyrim Legendary Edition",
+        "game_price": "1199 руб.",
+        "game_url": "https://steam-account.ru/oplata/skyrim-legendary-edition-kupit"
+    },
+    {
+        "game_name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden-ultimate-ninja-storm-4"
+    },
+    {
+        "game_name": "LEGO The Hobbit",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-the-hobbit"
+    },
+    {
+        "game_name": "Fallout 4",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-4-kupit"
+    },
+    {
+        "game_name": "Fallout 3",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-3-buy"
+    },
+    {
+        "game_name": "Starbound",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/starbound"
+    },
+    {
+        "game_name": "Call of Duty: Modern Warfare 2",
+        "game_price": "2299 руб.",
+        "game_url": "https://steam-account.ru/oplata/cod_mw2_kupit"
+    },
+    {
+        "game_name": "Postal 2",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/postal-2"
+    },
+    {
+        "game_name": "Battlefield Bad Company 2",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/buy_battlefield_bad_company_2_kupit"
+    },
+    {
+        "game_name": "Magicka",
+        "game_price": "40 руб.",
+        "game_url": "https://steam-account.ru/oplata/magicka_kupit"
+    },
+    {
+        "game_name": "Barotrauma",
+        "game_price": "899 руб.",
+        "game_url": "https://steam-account.ru/oplata/barotrauma"
+    },
+    {
+        "game_name": "Move or Die",
+        "game_price": "122 руб.",
+        "game_url": "https://steam-account.ru/oplata/move-or-die"
+    },
+    {
+        "game_name": "Sniper Elite 3",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-elite-3"
+    },
+    {
+        "game_name": "Borderlands 2 Game of the Year",
+        "game_price": "375 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-2-game-of-the-year"
+    },
+    {
+        "game_name": "Enclave",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/enclave"
+    },
+    {
+        "game_name": "Castle Crashers",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/castle-crashers-kupit"
+    },
+    {
+        "game_name": "Killing Floor 2",
+        "game_price": "295 руб.",
+        "game_url": "https://steam-account.ru/oplata/killing-floor-2"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Scandinavia",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-scandinavia"
+    },
+    {
+        "game_name": "Beholder",
+        "game_price": "34 руб.",
+        "game_url": "https://steam-account.ru/oplata/beholder"
+    },
+    {
+        "game_name": "DOOM",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/doom-4"
+    },
+    {
+        "game_name": "The Walking Dead: The Final Season",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-the-telltale-series-the-final-season"
+    },
+    {
+        "game_name": "Hearts of Iron IV: La Resistance",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/hearts-of-iron-iv-la-resistance"
+    },
+    {
+        "game_name": "Titan Quest: Atlantis",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/titan-quest-atlantis"
+    },
+    {
+        "game_name": "Grand Theft Auto III",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/gta-3-kupit"
+    },
+    {
+        "game_name": "Kane & Lynch 2: Dog Days",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/kane_lynch_2_dog_days_kupit"
+    },
+    {
+        "game_name": "Counter-Strike Global Offensive(Region Free, WORLDWIDE)",
+        "game_price": "1239 руб.",
+        "game_url": "https://steam-account.ru/oplata/counter_strike_global_offensive_kupit"
+    },
+    {
+        "game_name": "Alien: Isolation",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/alien-isolation"
+    },
+    {
+        "game_name": "Broforce",
+        "game_price": "545 руб.",
+        "game_url": "https://steam-account.ru/oplata/broforce"
+    },
+    {
+        "game_name": "Party Hard",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/party-hard"
+    },
+    {
+        "game_name": "LEGO Pirates of the Caribbean: The Video Game",
+        "game_price": "94 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-pirates-of-the-caribbean-the-video-game"
+    },
+    {
+        "game_name": "Hitman: Contracts",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-contracts"
+    },
+    {
+        "game_name": "Sid Meier's Civilization VI: Gathering Storm",
+        "game_price": "740 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-civilization-VI-gathering-storm"
+    },
+    {
+        "game_name": "Aliens: Colonial Marines",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/aliens-colonial-marines-kupit"
+    },
+    {
+        "game_name": "DmC: Devil May Cry",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/dmc-devil-may-cry"
+    },
+    {
+        "game_name": "Bulletstorm: Full Clip Edition",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/bulletstorm-full-clip-edition-standart"
+    },
+    {
+        "game_name": "Call of Juarez: Bound in Blood",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/call-of-juarez-bound-in-blood"
+    },
+    {
+        "game_name": "Hearts of Iron IV: Waking the Tiger",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-hearts-of-iron-iv-waking-the-tiger"
+    },
+    {
+        "game_name": "Darksiders Genesis",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/darksiders-genesis"
+    },
+    {
+        "game_name": "State of Decay: Year One Survival Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/state-of-decay-yose-day-one-edition"
+    },
+    {
+        "game_name": "Titan Quest: Ragnarök",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/titan-quest-ragnarok"
+    },
+    {
+        "game_name": "Fallout 76",
+        "game_price": "1099 руб.",
+        "game_url": "https://steam-account.ru/oplata/fallout-76-steam"
+    },
+    {
+        "game_name": "Arma 3 Helicopters",
+        "game_price": "592 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-3-helicopters"
+    },
+    {
+        "game_name": "Gothic 1",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/gothic-1"
+    },
+    {
+        "game_name": "Graveyard Keeper",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/graveyard-keeper"
+    },
+    {
+        "game_name": "Duke Nukem 3D: 20th Anniversary World Tour",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/duke-nukem-3d-20th-anniversary-world-tour"
+    },
+    {
+        "game_name": "Risk of Rain",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/risk-of-rain"
+    },
+    {
+        "game_name": "Viscera Cleanup Detail",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/viscera-cleanup-detail"
+    },
+    {
+        "game_name": "The Flame in the Flood",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-flame-in-the-flood"
+    },
+    {
+        "game_name": "Bloody Trapland",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/bloody-trapland"
+    },
+    {
+        "game_name": "Sanctum 2",
+        "game_price": "148 руб.",
+        "game_url": "https://steam-account.ru/oplata/sanctum-2"
+    },
+    {
+        "game_name": "American Truck Simulator Gold Edition + New Mexico DLC",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/american-truck-simulator-gold-edition"
+    },
+    {
+        "game_name": "Castlevania: Lords of Shadow – Ultimate Edition",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/castlevania-lords-of-shadow-ultimate-edition"
+    },
+    {
+        "game_name": "DiRT Showdown",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/dirt_showdown_kupit"
+    },
+    {
+        "game_name": "PAYDAY 2: The Bomb Heists",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-the-bomb-heists"
+    },
+    {
+        "game_name": "Warhammer 40,000: Dawn of War II: Retribution",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer_retribution_kupit"
+    },
+    {
+        "game_name": "Knights and Merchants",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/knights-and-merchants"
+    },
+    {
+        "game_name": "Wolfenstein: Youngblood",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-youngblood"
+    },
+    {
+        "game_name": "LEGO Marvel Super Heroes",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-marvel-superheroes"
+    },
+    {
+        "game_name": "Hearts of Iron IV: Death or Dishonor",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-hearts-of-iron-iv-death-or-dishonor"
+    },
+    {
+        "game_name": "Dungeons 2",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeons-2"
+    },
+    {
+        "game_name": "Chicken Shoot Gold",
+        "game_price": "10 руб.",
+        "game_url": "https://steam-account.ru/oplata/chicken-shoot-gold"
+    },
+    {
+        "game_name": "QUAKE II",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/quake-2"
+    },
+    {
+        "game_name": "Hitman 2: Silent Assassin",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-2-silent-assassin"
+    },
+    {
+        "game_name": "DOOM Eternal",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/doom-eternal-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Dishonored: Death of the Outsider",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/dishonored-death-of-the-outsider"
+    },
+    {
+        "game_name": "The Walking Dead: Michonne - A Telltale Miniseries",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-michonne-a-telltale-miniseries"
+    },
+    {
+        "game_name": "Return to Castle Wolfenstein",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/return-to-castle-wolfenstein"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Mighty Griffin Tuning Pack",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-mighty-griffin-tuning-pack"
+    },
+    {
+        "game_name": "Natural Selection 2",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/natural-selection-2-kupit"
+    },
+    {
+        "game_name": "Painkiller Hell & Damnation",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/painkiller-hell-damnation-kupit"
+    },
+    {
+        "game_name": "DARK",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/dark"
+    },
+    {
+        "game_name": "HITMAN 2 - Gold Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-2-gold-edition"
+    },
+    {
+        "game_name": "Gothic II: Gold Edition",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/gothic-2-gold-edition"
+    },
+    {
+        "game_name": "Borderlands: The Pre-Sequel",
+        "game_price": "365 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-the-pre-sequel"
+    },
+    {
+        "game_name": "Middle-earth: Shadow of Mordor GOTY",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/middle-earth-shadow-of-mordor-premium-edition"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Special Transport",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-special-transport"
+    },
+    {
+        "game_name": "Middle-earth: Shadow of War",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/middle-earth-shadow-of-war"
+    },
+    {
+        "game_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden-ultimate-ninja-storm-revolution"
+    },
+    {
+        "game_name": "Rise of Nations: Extended Edition",
+        "game_price": "295 руб.",
+        "game_url": "https://steam-account.ru/oplata/rise-of-nations-extended-edition"
+    },
+    {
+        "game_name": "Hacknet",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/hacknet"
+    },
+    {
+        "game_name": "Little Nightmares Complete Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/little-nightmares-complete"
+    },
+    {
+        "game_name": "Batman: Arkham City - Game of the Year Edition",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman_arkham_city_kupit"
+    },
+    {
+        "game_name": "The Escapists",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-escapists"
+    },
+    {
+        "game_name": "Alan Wake Collector's Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/alan-wake-collectors-edition"
+    },
+    {
+        "game_name": "Arma 2: Complete Collection",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-2-complete-collection"
+    },
+    {
+        "game_name": "Wolfenstein: The Old Blood",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-the-old-blood"
+    },
+    {
+        "game_name": "STAR WARS: Knights of the Old Republic II",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/knights-of-the-old-republic-2-the-sith-lords"
+    },
+    {
+        "game_name": "Gorky 17",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/gorky-17"
+    },
+    {
+        "game_name": "GRID 2 - Spa-Francorchamps Track Pack",
+        "game_price": "4 руб.",
+        "game_url": "https://steam-account.ru/oplata/grid-2-spa-francorchamps-track-pack"
+    },
+    {
+        "game_name": "Farming Simulator 17",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/farming-simulator-2017"
+    },
+    {
+        "game_name": "Beholder - Blissful Sleep",
+        "game_price": "34 руб.",
+        "game_url": "https://steam-account.ru/oplata/beholder-blissful-sleep"
+    },
+    {
+        "game_name": "Two Worlds II",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/two-worlds-ii"
+    },
+    {
+        "game_name": "Death Road to Canada",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/death-road-to-canada"
+    },
+    {
+        "game_name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-40000-space-marine-anniversary-edition-steam-key"
+    },
+    {
+        "game_name": "DOOM 3",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/doom-3"
+    },
+    {
+        "game_name": "The Evil Within 2",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-evil-within-2"
+    },
+    {
+        "game_name": "The Walking Dead: 400 Days",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-400-days"
+    },
+    {
+        "game_name": "Amnesia Collection",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/amnesia-collection"
+    },
+    {
+        "game_name": "Earth 2150 - Lost Souls",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/earth-2150-lost-souls"
+    },
+    {
+        "game_name": "Dead by Daylight - Global Region",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-by-daylight-region-free"
+    },
+    {
+        "game_name": "STAR WARS Battlefront (Classic, 2004)",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-battlefront-2004"
+    },
+    {
+        "game_name": "Serial Cleaner",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/serial-cleaner"
+    },
+    {
+        "game_name": "Trine 2: Complete Story",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/trine_2_kupit"
+    },
+    {
+        "game_name": "Wolfenstein II: The New Colossus",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-the-colossus"
+    },
+    {
+        "game_name": "Pirates of Black Cove",
+        "game_price": "18 руб.",
+        "game_url": "https://steam-account.ru/oplata/pirates-of-black-cove"
+    },
+    {
+        "game_name": "7 Days to Die",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/7-days-to-die"
+    },
+    {
+        "game_name": "Heavy Rain",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/heavy-rain"
+    },
+    {
+        "game_name": "RAGE",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/rage_kupit_kluch"
+    },
+    {
+        "game_name": "Batman: Arkham Asylum Game of the Year Edition",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-asylum"
+    },
+    {
+        "game_name": "Tropico 5",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/Tropico-5"
+    },
+    {
+        "game_name": "For The King",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/for-the-king"
+    },
+    {
+        "game_name": "XCOM: Enemy Unknown",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/xcom-enemy-unknown-buy"
+    },
+    {
+        "game_name": "Warhammer 40,000: Dawn of War II",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/dawn-of-war-2"
+    },
+    {
+        "game_name": "Damned",
+        "game_price": "290 руб.",
+        "game_url": "https://steam-account.ru/oplata/damned"
+    },
+    {
+        "game_name": "Killer is Dead - Nightmare Edition",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/killer-is-dead-nightmare-edition"
+    },
+    {
+        "game_name": "The Walking Dead: A New Frontier",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-a-new-frontier"
+    },
+    {
+        "game_name": "Dying Light: Definitive Edition (Hellraid, Season Pass, Cuisine & Cargo, The Bozak Horde, The Following, Crash Test Skin Bundle, Harran Ranger Bundle, Gun Psycho Bundle, Volatile Hunter Bundle, White Death Bundle)",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/dying-light-platinum-edition-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Biped",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/biped"
+    },
+    {
+        "game_name": "Life is Feudal: Forest Village",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/life-is-feudal-forest-village"
+    },
+    {
+        "game_name": "4 игры: Tropico 3 + Sine Mora + SkyDrift + Anna",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/tropico-3-sinemora-skydrift-anna"
+    },
+    {
+        "game_name": "World War III: Black Gold",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/world-war-iii-black-gold"
+    },
+    {
+        "game_name": "Sacred 3",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/sacred-3"
+    },
+    {
+        "game_name": "Savage Lands",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/savage-lands"
+    },
+    {
+        "game_name": "King's Bounty: Dark Side",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/kings-bounty-dark-side"
+    },
+    {
+        "game_name": "Arma 2: Army of the Czech Republic",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-2-army-of-the-czech-republic"
+    },
+    {
+        "game_name": "Marvel's Spider-Man Remastered - Турция",
+        "game_price": "985 руб.",
+        "game_url": "https://steam-account.ru/oplata/marvels-spider-man-remastered-steam-key-turkey"
+    },
+    {
+        "game_name": "Edna & Harvey: Harveys New Eyes",
+        "game_price": "26 руб.",
+        "game_url": "https://steam-account.ru/oplata/edna-and-harvey-harveys-new-eyes"
+    },
+    {
+        "game_name": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
+        "game_price": "990 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-ii-new-colossus-digital-deluxe-edition"
+    },
+    {
+        "game_name": "Worms Clan Wars",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-clan-wars"
+    },
+    {
+        "game_name": "HELLDIVERS Dive Harder Edition",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/helldivers"
+    },
+    {
+        "game_name": ">observer_",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/observer_"
+    },
+    {
+        "game_name": "Serious Sam 3 BFE Gold",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-3-bfe-gold"
+    },
+    {
+        "game_name": "Athopiu - The Final Rebirth of Hopeless Incarnate",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/athopiu-the-final-rebirth-of-hopeless-incarnate"
+    },
+    {
+        "game_name": "Subnautica: Below Zero",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/subnautica-below-zero"
+    },
+    {
+        "game_name": "The Dark Pictures Anthology: Little Hope",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-dark-pictures-anthology-little-hope"
+    },
+    {
+        "game_name": "Farming Simulator 15",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/farming-simulator-15"
+    },
+    {
+        "game_name": "Beat Cop",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/beat-cop"
+    },
+    {
+        "game_name": "Risen 2: Dark Waters",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/risen_2_dark_waters_kupit"
+    },
+    {
+        "game_name": "Quantum Break",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/quantum-break"
+    },
+    {
+        "game_name": "Metro Simulator",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-simulator-2020"
+    },
+    {
+        "game_name": "Burnout Paradise: The Ultimate Box - Region Free",
+        "game_price": "1199 руб.",
+        "game_url": "https://steam-account.ru/oplata/burnout-paradise-the-ultimate-box-region-free"
+    },
+    {
+        "game_name": "ENSLAVED: Odyssey to the West Premium Edition",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/enslaved-odyssey-to-the-west-premium-edition"
+    },
+    {
+        "game_name": "Satellite Reign",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/satellite-reign"
+    },
+    {
+        "game_name": "Blacksad: Under the Skin",
+        "game_price": "239 руб.",
+        "game_url": "https://steam-account.ru/oplata/blacksad-under-the-skin"
+    },
+    {
+        "game_name": "Wolfenstein: YoungBlood Deluxe Edition",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/wolfenstein-youngblood-deluxe-edition"
+    },
+    {
+        "game_name": "NARUTO: Ultimate Ninja STORM",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-ultimate-ninja-storm"
+    },
+    {
+        "game_name": "Shadowrun Returns",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/shadowrun-returns"
+    },
+    {
+        "game_name": "East India Company Gold",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/east-india-company"
+    },
+    {
+        "game_name": "We Happy Few Digital Deluxe Edition",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/we-happy-few-digital-deluxe-edition-steam-key"
+    },
+    {
+        "game_name": "Horizon Zero Dawn Complete Edition - Турция",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/horizon-zero-dawn-complete-edition-key-turkey"
+    },
+    {
+        "game_name": "Mortal Kombat 11 Ultimate",
+        "game_price": "1199 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-11-ultimate-steam-key"
+    },
+    {
+        "game_name": "ARMA: Cold War Assault",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-cold-war-assault"
+    },
+    {
+        "game_name": "STRIDER",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/strider"
+    },
+    {
+        "game_name": "Jack Orlando: Director's Cut",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/jack-orlando-director-s-cut"
+    },
+    {
+        "game_name": "Stellaris: Ancient Relics Story Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/stellaris-ancient-relics-story-pack"
+    },
+    {
+        "game_name": "Dungeon of the Endless",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeon-of-the-endless"
+    },
+    {
+        "game_name": "Bulletstorm: Full Clip Edition Duke Nukem Bundle",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/bulletstorm-full-clip-edition"
+    },
+    {
+        "game_name": "Get Even",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/get-even"
+    },
+    {
+        "game_name": "Mighty Party: Battle and Toads Pack",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/mighty-party-battle-and-toads-pack"
+    },
+    {
+        "game_name": "Metro Exodus - Gold Edition",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-exodus-gold-edition-steam-key"
+    },
+    {
+        "game_name": "Hotline Miami 2: Wrong Number",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/hotline-miami-2-wrong-number-steam-key"
+    },
+    {
+        "game_name": "Orcs Must Die!",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/orcs_must_die_kupit"
+    },
+    {
+        "game_name": "VITATIO 2",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/vitatio-2"
+    },
+    {
+        "game_name": "Middle-earth: Shadow of Mordor",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/middle-earth-shadow-of-mordor"
+    },
+    {
+        "game_name": "Zombie Army Trilogy",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/zombie-army-trilogy"
+    },
+    {
+        "game_name": "F.E.A.R. 3",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/fear_3_kupit_kluch"
+    },
+    {
+        "game_name": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-elder-scrolls-iv-oblivion-kupit"
+    },
+    {
+        "game_name": "BioShock 2",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/bioshock_2_kupit"
+    },
+    {
+        "game_name": "Witch It",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/witch-it"
+    },
+    {
+        "game_name": "Deponia: The Complete Journey",
+        "game_price": "46 руб.",
+        "game_url": "https://steam-account.ru/oplata/deponia-the-complete-journey"
+    },
+    {
+        "game_name": "Just Cause 3",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/just-cause-3-kupit"
+    },
+    {
+        "game_name": "Resident Evil 6",
+        "game_price": "525 руб.",
+        "game_url": "https://steam-account.ru/oplata/resident-evil-6-kupit"
+    },
+    {
+        "game_name": "Grand Theft Auto: Vice City",
+        "game_price": "1399 руб.",
+        "game_url": "https://steam-account.ru/oplata/grand-theft-auto-vice-city-kupit"
+    },
+    {
+        "game_name": "Metro: Last Light Redux",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro_last_light"
+    },
+    {
+        "game_name": "The Bureau: XCOM Declassified",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-bureau-xcom-declassified-kupit"
+    },
+    {
+        "game_name": "Age of Wonders III",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-wonders-3"
+    },
+    {
+        "game_name": "Darksiders II Deathinitive Edition",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/darksiders-ii-deathinitive-edition"
+    },
+    {
+        "game_name": "Homefront",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/homefront_kupit"
+    },
+    {
+        "game_name": "Aliens vs. Predator Collection",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/aliens_vs_predator_2010_kupit"
+    },
+    {
+        "game_name": "Total War: SHOGUN 2",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/shogun_2_total_war_kupit"
+    },
+    {
+        "game_name": "Endless Space - Collection",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/endless-space"
+    },
+    {
+        "game_name": "World War Z: Aftermath",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/world-war-z-aftermath-key"
+    },
+    {
+        "game_name": "SpeedRunners",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/speedrunners"
+    },
+    {
+        "game_name": "Sid Meier's Civilization V: Complete Edition",
+        "game_price": "699 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-civilization-v-buy"
+    },
+    {
+        "game_name": "Detroit: Become Human",
+        "game_price": "699 руб.",
+        "game_url": "https://steam-account.ru/oplata/detroit-become-human-steam-key"
+    },
+    {
+        "game_name": "Gothic 3",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/gothic-3"
+    },
+    {
+        "game_name": "Beyond: Two Souls",
+        "game_price": "319 руб.",
+        "game_url": "https://steam-account.ru/oplata/beyond-two-souls-kupit"
+    },
+    {
+        "game_name": "LEGO The Lord of the Rings",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-the-lord-of-the-rings"
+    },
+    {
+        "game_name": "The Long Dark",
+        "game_price": "990 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-long-dark"
+    },
+    {
+        "game_name": "Resident Evil Revelations 2 Episode One: Penal Colony",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/resident-evil-revelations-2"
+    },
+    {
+        "game_name": "R.U.S.E.",
+        "game_price": "1599 руб.",
+        "game_url": "https://steam-account.ru/oplata/ruse"
+    },
+    {
+        "game_name": "Star Wars: Knights of the Old Republic",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-knights-of-the-old-republic"
+    },
+    {
+        "game_name": "Titan Quest Anniversary Edition",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/titan-quest"
+    },
+    {
+        "game_name": "Darksiders Warmastered Edition",
+        "game_price": "68 руб.",
+        "game_url": "https://steam-account.ru/oplata/darksiders-warmastered-edition"
+    },
+    {
+        "game_name": "Alien: Isolation",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/alien-isolation-global"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - High Power Cargo Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-high-power-cargo-pack"
+    },
+    {
+        "game_name": "Prey",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/prey"
+    },
+    {
+        "game_name": "Contagion",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/contagion"
+    },
+    {
+        "game_name": "GRID 2 - Bathurst Track Pack",
+        "game_price": "3 руб.",
+        "game_url": "https://steam-account.ru/oplata/grid-2-bathurst-track-pack"
+    },
+    {
+        "game_name": "Batman: Arkham Knight",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-knight"
+    },
+    {
+        "game_name": "Sid Meier's Civilization VI Platinum Edition",
+        "game_price": "1199 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meier-s-civilization-vi-platinum"
+    },
+    {
+        "game_name": "Brutal Legend",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/brutal-legend"
+    },
+    {
+        "game_name": "Beholder 2",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/beholder-2"
+    },
+    {
+        "game_name": "Doom 3: BFG Edition",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/doom-3-bfg-edition"
+    },
+    {
+        "game_name": "This War of Mine: Stories - Season Pass",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/this-war-of-mine-stories-season-pass"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Road to the Black Sea",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-road-to-the-black-sea"
+    },
+    {
+        "game_name": "Sins of a Solar Empire: Rebellion",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/sins-of-a-solar-empire-rebellion"
+    },
+    {
+        "game_name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-elder-scrolls-iv-oblivion-goty-deluxe"
+    },
+    {
+        "game_name": "Little Nightmares",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/little-nightmares"
+    },
+    {
+        "game_name": "Torchlight II",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/torchlight_2_kupit"
+    },
+    {
+        "game_name": "Tomb Raider GOTY Edition",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/tomb-raider-goty-edition"
+    },
+    {
+        "game_name": "Doom Eternal",
+        "game_price": "720 руб.",
+        "game_url": "https://steam-account.ru/oplata/doom-eternal"
+    },
+    {
+        "game_name": "SUPERHOT",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/superhot"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Mighty Griffin Tuning Pack",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-mighty-griffin-tuning-pack"
+    },
+    {
+        "game_name": "XCOM: Enemy Within",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/xcom-enemy-within"
+    },
+    {
+        "game_name": "Mafia: Definitive Edition",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/mafia-definitive-edition"
+    },
+    {
+        "game_name": "Jagged Alliance 2 – Wildfire",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/jagged-alliance-2-wildfire"
+    },
+    {
+        "game_name": "HITMAN 2 – STANDARD EDITION",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-2"
+    },
+    {
+        "game_name": "BlackSmith HIT",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/blacksmith-hit"
+    },
+    {
+        "game_name": "The Ship: Murder Party",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-ship-murder-party"
+    },
+    {
+        "game_name": "Orcs Must Die! 2",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/orcs-must-die-2-kupit"
+    },
+    {
+        "game_name": "Metro 2033 Redux",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-2033-redux"
+    },
+    {
+        "game_name": "Shadows: Awakening",
+        "game_price": "122 руб.",
+        "game_url": "https://steam-account.ru/oplata/shadows-awakening"
+    },
+    {
+        "game_name": "Serious Sam Classics: Revolution",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-classics-revolution"
+    },
+    {
+        "game_name": "Cities XL Platinum, Blood Bowl Legendary Edition, Divinity II,  R.A.W., Game of Thrones, Confrontation",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/6-game-steam"
+    },
+    {
+        "game_name": "Skullgirls 2nd Encore",
+        "game_price": "449 руб.",
+        "game_url": "https://steam-account.ru/oplata/skullgirls"
+    },
+    {
+        "game_name": "Sniper Elite 4",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-elite-4"
+    },
+    {
+        "game_name": "Hearts of Iron IV: Together for Victory",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-hearts-of-iron-iv-together-for-victory"
+    },
+    {
+        "game_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto"
+    },
+    {
+        "game_name": "Psychonauts",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/psychonauts-kupit"
+    },
+    {
+        "game_name": "Hollow Knight",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/hollow-knight-steam-account-shared-offline"
+    },
+    {
+        "game_name": "F.E.A.R.",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/fear"
+    },
+    {
+        "game_name": "Vendetta - Curse of Raven's Cry",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/vendetta-curse-of-ravens-cry"
+    },
+    {
+        "game_name": "SimCity 4 Deluxe Edition",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/simcity-4"
+    },
+    {
+        "game_name": "Arma 3 Marksmen",
+        "game_price": "467 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-3-marksmen"
+    },
+    {
+        "game_name": "Collapse",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/collapse"
+    },
+    {
+        "game_name": "Total War: NAPOLEON – Definitive Edition",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/napoleon_total_war_kupit"
+    },
+    {
+        "game_name": "Sniper Ghost Warrior 3",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-ghost-warrior-3"
+    },
+    {
+        "game_name": "Stellaris - Galaxy Edition",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/stellaris-galaxy-edition"
+    },
+    {
+        "game_name": "Wreckfest",
+        "game_price": "445 руб.",
+        "game_url": "https://steam-account.ru/oplata/next-car-game-wreckfest"
+    },
+    {
+        "game_name": "Guacamelee! Super Turbo Championship Edition",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/guacamelee-super-turbo-championship-edition"
+    },
+    {
+        "game_name": "E.Y.E: Divine Cybermancy",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/eye-divine-cybermancy"
+    },
+    {
+        "game_name": "Five Nights at Freddy's: Sister Location",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy-s-sister-location"
+    },
+    {
+        "game_name": "Company of Heroes 2 - Whale and Dolphin Conservation Charity Pattern Pack",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/company-of-heroes-2-whale-and-dolphin-conservation-charity-pattern-pack"
+    },
+    {
+        "game_name": "Shadow Tactics: Blades of the Shogun",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/shadow-tactics-blades-of-the-shogun"
+    },
+    {
+        "game_name": "LEGO Harry Potter: Years 1-4",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-harry-potter-years-1-4"
+    },
+    {
+        "game_name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/metal-gear-solid-5-the-phantom-pain-kupit"
+    },
+    {
+        "game_name": "This Is the Police 2",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/this-is-the-police-2"
+    },
+    {
+        "game_name": "Planets Under Attack",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/planets-under-attack"
+    },
+    {
+        "game_name": "Two Worlds II Castle Defense",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/two-worlds-2-castle-defense"
+    },
+    {
+        "game_name": "Max Payne 2: The Fall of Max Payne",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/max-payne-2-the-fall-of-max-payne"
+    },
+    {
+        "game_name": "Mafia III: Definitive Edition",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/mafia-iii-definitive-edition"
+    },
+    {
+        "game_name": "Deponia",
+        "game_price": "27 руб.",
+        "game_url": "https://steam-account.ru/oplata/deponia-kupit"
+    },
+    {
+        "game_name": "The Dark Pictures Anthology: Man of Medan",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/man-of-medan"
+    },
+    {
+        "game_name": "Majesty 2 Collection",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/majesty-2-collection"
+    },
+    {
+        "game_name": "Worms Revolution Gold Edition",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-revolution-gold"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Russian Paint Jobs Pack",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-russian-paint-jobs-pack"
+    },
+    {
+        "game_name": "KnightShift",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/knightshift"
+    },
+    {
+        "game_name": "This Is the Police",
+        "game_price": "85 руб.",
+        "game_url": "https://steam-account.ru/oplata/this-is-the-police"
+    },
+    {
+        "game_name": "LOST PLANET 3",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/lost-planet-3-kupit"
+    },
+    {
+        "game_name": "Hacknet",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/hacknet-account-steam"
+    },
+    {
+        "game_name": "Five Nights at Freddy's Franchise Pack (1-4)",
+        "game_price": "270 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy-s-franchise-pack-1-4-steam-account-shared-offline"
+    },
+    {
+        "game_name": "DEATHLOOP",
+        "game_price": "899 руб.",
+        "game_url": "https://steam-account.ru/oplata/deathloop"
+    },
+    {
+        "game_name": "Borderlands 2: Mechromancer Pack",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-2-mechromancer-pack"
+    },
+    {
+        "game_name": "Dying Light Enhanced Edition - Европа",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/dying-light-enhanced-edition-europe-steam-key"
+    },
+    {
+        "game_name": "Crash Time 3",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/crash-time-3"
+    },
+    {
+        "game_name": "The Dark Pictures Anthology: House of Ashes",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-dark-pictures-anthology-house-of-ashes-steam-key"
+    },
+    {
+        "game_name": "Train Simulator: Riviera Line in the Fifties: Exeter - Kingswear Route Add-On",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/train-simulator-riviera-line-in-the-fifties-exeter-kingswear-route-add-on"
+    },
+    {
+        "game_name": "Forge of Gods: Promote pack",
+        "game_price": "7 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-promote-pack"
+    },
+    {
+        "game_name": "Red Comrades Save the Galaxy: Reloaded (Петька и Василий Иванович Спасают Галактику. Перезагрузка)",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/red-comrades-save-the-galaxy-reloaded-steam-key"
+    },
+    {
+        "game_name": "Subterrain",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/subterrain"
+    },
+    {
+        "game_name": "Red Comrades 3: Return of Alaska: Reloaded (Петька и Василий Иванович 3: Возвращение Аляски. Перезагрузка)",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/red-comrades-3-return-of-alaska-reloaded"
+    },
+    {
+        "game_name": "Garrys Mod - Region free(для всех стран)",
+        "game_price": "899 руб.",
+        "game_url": "https://steam-account.ru/oplata/garrys_mod_region_free"
+    },
+    {
+        "game_name": "Injustice: Gods Among Us Ultimate Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/injustice-gods-among-us"
+    },
+    {
+        "game_name": "Star Wars Classics Collection",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-classics-collection"
+    },
+    {
+        "game_name": "Train Simulator: Miami - West Palm Beach Route Add-On",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/train-simulator-miami-west-palm-beach-route-add-on"
+    },
+    {
+        "game_name": "Worms Rumble",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-rumble"
+    },
+    {
+        "game_name": "One Piece Pirate Warriors 3 - Gold Edition",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-pirate-warriors-3-gold-edition-key"
+    },
+    {
+        "game_name": "Red Comrades 2: For the Great Justice (Петька и Василий Иванович 2: Судный день. Перезагрузка)",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/red-comrades-2-for-the-great-justice"
+    },
+    {
+        "game_name": "Sacred Gold",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/sacred-gold"
+    },
+    {
+        "game_name": "LEGO STAR WARS: The Force Awakens",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-star-wars-the-force-awakens"
+    },
+    {
+        "game_name": "Warhammer 40,000: Mechanicus",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-40-000-mechanicus"
+    },
+    {
+        "game_name": "Sniper Ghost Warrior 3 Season Pass Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-ghost-warrior-3-season-pass-edition"
+    },
+    {
+        "game_name": "Worms Reloaded",
+        "game_price": "88 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms_reloaded_kupit_kluch"
+    },
+    {
+        "game_name": "Sid Meiers Civilization: Beyond Earth",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-civilization-beyond-earth"
+    },
+    {
+        "game_name": "Fall of Light: Darkest Edition",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/fall-of-light"
+    },
+    {
+        "game_name": "Guild of Dungeoneering",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/guild-of-dungeoneering"
+    },
+    {
+        "game_name": "Forge of Gods: Fantastic Six pack",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-spring-rush-pack"
+    },
+    {
+        "game_name": "Overcast - Walden and the Werewolf",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/overcast-walden-and-the-werewolf"
+    },
+    {
+        "game_name": "Vampire: The Masquerade - Shadows of New York",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/vampire-the-masquerade-shadows-of-new-york"
+    },
+    {
+        "game_name": "Forge of Gods: Twilight Destroyers pack",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-rpg"
+    },
+    {
+        "game_name": "Mordheim: City of the Damned",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/mordheim-city-of-the-damned"
+    },
+    {
+        "game_name": "Disciples III - Renaissance Steam Special Edition",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/disciples-3-renaissance-steam-special-edition"
+    },
+    {
+        "game_name": "TOKYO GHOUL:re [CALL to EXIST]",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/tokyo-ghoul-re-call-to-exist"
+    },
+    {
+        "game_name": "Displaced",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/displaced"
+    },
+    {
+        "game_name": "Savage Lands - region free",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/savage-lands-region-free"
+    },
+    {
+        "game_name": "Alone in the Dark",
+        "game_price": "58 руб.",
+        "game_url": "https://steam-account.ru/oplata/alone-in-the-dark"
+    },
+    {
+        "game_name": "Prison Architect - Island Bound",
+        "game_price": "129 руб.",
+        "game_url": "https://steam-account.ru/oplata/prison-architect-island-bound"
+    },
+    {
+        "game_name": "F.E.A.R. Ultimate Shooter Edition",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/fear-ultimate-edition"
+    },
+    {
+        "game_name": "Hector: Badge of Carnage - Full Series",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/hector-badge-of-carnage-full-series"
+    },
+    {
+        "game_name": "Verdun",
+        "game_price": "449 руб.",
+        "game_url": "https://steam-account.ru/oplata/verdun"
+    },
+    {
+        "game_name": "Felix The Reaper",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/felix-the-reaper"
+    },
+    {
+        "game_name": "Rising Storm",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/rising-storm"
+    },
+    {
+        "game_name": "Metro Redux Bundle (Metro 2033 Redux + Metro Last Light Redux)",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-redux-bundle"
+    },
+    {
+        "game_name": "My Time at Portia",
+        "game_price": "489 руб.",
+        "game_url": "https://steam-account.ru/oplata/my-time-at-portia-region-free"
+    },
+    {
+        "game_name": "Take On Mars",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/take-on-mars"
+    },
+    {
+        "game_name": "Days Gone - Турция",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/days-gone-steam-key-turkey"
+    },
+    {
+        "game_name": "Warhammer 40,000: Gladius - Relics of War",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-40-000-gladius-relics-of-war"
+    },
+    {
+        "game_name": "Septerra Core",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/septerra-core"
+    },
+    {
+        "game_name": "ONE PIECE: PIRATE WARRIORS 4",
+        "game_price": "239 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-pirate-warriors-4"
+    },
+    {
+        "game_name": "Sword Art Online: Hollow Realization Deluxe Edition",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/sword-art-online-hollow-realization-deluxe-edition"
+    },
+    {
+        "game_name": "Galactic Civilizations II: Ultimate Edition",
+        "game_price": "34 руб.",
+        "game_url": "https://steam-account.ru/oplata/galactic-civilizations-ii-ultimate-edition"
+    },
+    {
+        "game_name": "Dungeon Siege III",
+        "game_price": "148 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeon_siege_3_kupit"
+    },
+    {
+        "game_name": "Emma (for Athopiu)",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/emma-for-athopiu"
+    },
+    {
+        "game_name": "Middle-earth: Shadow of War - Definitive Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/middle-earth-shadow-of-war-definitive"
+    },
+    {
+        "game_name": "DreadOut: Keepers of The Dark",
+        "game_price": "43 руб.",
+        "game_url": "https://steam-account.ru/oplata/dreadout-keepers-of-the-dark"
+    },
+    {
+        "game_name": "Sunset Overdrive",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/sunset-overdrive"
+    },
+    {
+        "game_name": "3Dmark",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/3dmark"
+    },
+    {
+        "game_name": "Of Orcs and Men",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/of-orcs-and-men"
+    },
+    {
+        "game_name": "Mighty Party: Back to Transylvania Pack",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/mighty-party-back-to-transylvania-pack"
+    },
+    {
+        "game_name": "Mortal Kombat X",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-x"
+    },
+    {
+        "game_name": "State of Mind",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/state-of-mind"
+    },
+    {
+        "game_name": "Particula",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/particula"
+    },
+    {
+        "game_name": "Forge of Gods: Forge of Thrones Pack",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-forge-of-thrones-pack"
+    },
+    {
+        "game_name": "Super Sanctum TD",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/super-sanctum-td"
+    },
+    {
+        "game_name": "Broken Age",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/broken-age"
+    },
+    {
+        "game_name": "Warhammer: End Times – Vermintide",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-end-times-termintide"
+    },
+    {
+        "game_name": "Minecraft: Story Mode - A Telltale Games Series",
+        "game_price": "3999 руб.",
+        "game_url": "https://steam-account.ru/oplata/minecraft-story-mode"
+    },
+    {
+        "game_name": "Steel Division: Normandy 44",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/steel-division-normandy-44"
+    },
+    {
+        "game_name": "White Noise Online",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/white-noise-online"
+    },
+    {
+        "game_name": "Unrailed!",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/unrailed"
+    },
+    {
+        "game_name": "Aven Colony",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/aven-colony"
+    },
+    {
+        "game_name": "We Were Here Together",
+        "game_price": "190 руб.",
+        "game_url": "https://steam-account.ru/oplata/we-were-here-together"
+    },
+    {
+        "game_name": "American Truck Simulator - Heavy Cargo Pack",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/american-truck-simulator-heavy-cargo-pack"
+    },
+    {
+        "game_name": "Dream Pinball 3D",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/dream-pinball-3d"
+    },
+    {
+        "game_name": "Warhammer 40,000: Dawn of War II - Master Collection",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/dawn-of-war-2-master-collection"
+    },
+    {
+        "game_name": "Left 4 Dead 2 - Region Free",
+        "game_price": "819 руб.",
+        "game_url": "https://steam-account.ru/oplata/l4d2-region-free"
+    },
+    {
+        "game_name": "DRAGON BALL XENOVERSE 2",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/dragon-ball-xenoverse-2"
+    },
+    {
+        "game_name": "The Incredible Adventures of Van Helsing: Final Cut",
+        "game_price": "740 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-incredible-adventures-of-van-helsing-final-cut"
+    },
+    {
+        "game_name": "Aliens: Colonial Marines Collection",
+        "game_price": "389 руб.",
+        "game_url": "https://steam-account.ru/oplata/aliens-colonial-marines-collection"
+    },
+    {
+        "game_name": "Hard Truck Apocalypse: Rise Of Clans / Ex Machina: Meridian 113",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/hard-truck-apocalypse-rise-of-clans-ex-machina-meridian-113"
+    },
+    {
+        "game_name": "Turmoil",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/turmoil"
+    },
+    {
+        "game_name": "Supraland",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/supraland"
+    },
+    {
+        "game_name": "The Elder Scrolls V: Skyrim VR",
+        "game_price": "1999 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-elder-scrolls-v-skyrim-vr"
+    },
+    {
+        "game_name": "Warhammer 40,000: Dawn of War II Grand Master Collection",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/dawn-of-war-2-grand-master-collection"
+    },
+    {
+        "game_name": "Ridge Racer Unbounded",
+        "game_price": "68 руб.",
+        "game_url": "https://steam-account.ru/oplata/ridge_racer_unbounded_kupit"
+    },
+    {
+        "game_name": "GOD EATER 2 Rage Burst",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/god-eater-2-rage-burst"
+    },
+    {
+        "game_name": "DRAGON BALL FighterZ",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/dragon-ball-fighterz"
+    },
+    {
+        "game_name": "Tap Adventure: Time Travel - Promo Pack",
+        "game_price": "7 руб.",
+        "game_url": "https://steam-account.ru/oplata/tap-adventure-time-travel-promo-pack"
+    },
+    {
+        "game_name": "Killing Floor 2 GLOBAL",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/killing-floor-2-steam-key"
+    },
+    {
+        "game_name": "BATTLETECH",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/battletech"
+    },
+    {
+        "game_name": "11-11 Memories Retold",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/11-11-memories-retold"
+    },
+    {
+        "game_name": "The Guild II",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-guild-ii"
+    },
+    {
+        "game_name": "Syberia 3",
+        "game_price": "122 руб.",
+        "game_url": "https://steam-account.ru/oplata/syberia-3"
+    },
+    {
+        "game_name": "Silence",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/silence"
+    },
+    {
+        "game_name": "Lara Croft and the Guardian of Light",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/lara-croft-and-the-guardian-of-light"
+    },
+    {
+        "game_name": "Legacy of Dorn: Herald of Oblivion",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/legacy-of-dorn-herald-of-oblivion"
+    },
+    {
+        "game_name": "Trident's Wake",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/tridents-wake"
+    },
+    {
+        "game_name": "Serious Sam: Siberian Mayhem",
+        "game_price": "990 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-siberian-mayhem-steam-key"
+    },
+    {
+        "game_name": "Fortnite x Marvel: Zero War - SNIKT! SNIKT! Spray!",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/fortnite-zero-war-snikt-snikt-spray"
+    },
+    {
+        "game_name": "Heroes of Hammerwatch",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/heroes-of-hammerwatch-steam-key"
+    },
+    {
+        "game_name": "Spacebase Startopia",
+        "game_price": "1349 руб.",
+        "game_url": "https://steam-account.ru/oplata/spacebase-startopia"
+    },
+    {
+        "game_name": "Spacebase Startopia - Extended Edition",
+        "game_price": "1575 руб.",
+        "game_url": "https://steam-account.ru/oplata/spacebase-startopia-extended-edition"
+    },
+    {
+        "game_name": "Port Royale 4 - Extended Edition",
+        "game_price": "1699 руб.",
+        "game_url": "https://steam-account.ru/oplata/port-royale-4-extended-edition"
+    },
+    {
+        "game_name": "Starpoint Gemini Warlords - Upgrade to Digital Deluxe",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/starpoint-gemini-warlords-upgrade-to-digital-deluxe"
+    },
+    {
+        "game_name": "Aquanox Deep Descent",
+        "game_price": "1499 руб.",
+        "game_url": "https://steam-account.ru/oplata/aquanox-deep-descent"
+    },
+    {
+        "game_name": "STAR WARS: Rogue Squadron 3D",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-rogue-squadron-3d"
+    },
+    {
+        "game_name": "Citizens of Space",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/citizens-of-space"
+    },
+    {
+        "game_name": "Glass Masquerade",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/glass-masquerade"
+    },
+    {
+        "game_name": "The Bradwell Conspiracy",
+        "game_price": "395 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-bradwell-conspiracy"
+    },
+    {
+        "game_name": "GetsuFumaDen: Undying Moon",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/getsufumaden-undying-moon-steam-key"
+    },
+    {
+        "game_name": "BEAT ARENA",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/beat-arena-steam-key"
+    },
+    {
+        "game_name": "Shortest Trip to Earth",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/shortest-trip-to-earth"
+    },
+    {
+        "game_name": "Crusader Kings II: The Reaper's Due",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/crusader-kings-ii-the-reaper-s-due-steam-key"
+    },
+    {
+        "game_name": "Airline Tycoon 2",
+        "game_price": "485 руб.",
+        "game_url": "https://steam-account.ru/oplata/airline-tycoon-2"
+    },
+    {
+        "game_name": "Ion Assault",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/ion-assault"
+    },
+    {
+        "game_name": "Disney Fairies: Tinker Bell's Adventure",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/disney-fairies-tinker-bell-s-adventure"
+    },
+    {
+        "game_name": "Cargo Commander",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/cargo-commander"
+    },
+    {
+        "game_name": "Carnival Games VR",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/carnival-games-vr"
+    },
+    {
+        "game_name": "Overruled!",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/overruled"
+    },
+    {
+        "game_name": "Grand Ages: Medieval",
+        "game_price": "775 руб.",
+        "game_url": "https://steam-account.ru/oplata/grand-ages-medieval"
+    },
+    {
+        "game_name": "Tyranny - Portrait Pack",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/tyranny-portrait-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Indian Ships Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-indian-ships-unit-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Muslim Ships Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-muslim-ships-unit-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Indian Subcontinent Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-indian-subcontinent-unit-pack"
+    },
+    {
+        "game_name": "PAYDAY 2: Pen Melee Weapon DLC",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-pen-melee-weapon-steam-key"
+    },
+    {
+        "game_name": "Drunken Robot Pornography",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/drunken-robot-pornography"
+    },
+    {
+        "game_name": "Europa Universalis IV: Cradle of Civilization Content Pack",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/content-pack-europa-universalis-iv-cradle-of-civilization"
+    },
+    {
+        "game_name": "Crusader Kings II: Conclave",
+        "game_price": "348 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-crusader-kings-ii-conclave"
+    },
+    {
+        "game_name": "Europa Universalis III: Heir to the Throne",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iii-heir-to-the-throne"
+    },
+    {
+        "game_name": "Age of Wonders III - Eternal Lords Expansion",
+        "game_price": "415 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-wonders-iii-eternal-lords-expansion-steam-key"
+    },
+    {
+        "game_name": "Dark Gates",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/dark-gates"
+    },
+    {
+        "game_name": "Cities: Skylines - Coast to Coast Radio",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-coast-to-coast-radio-steam-key"
+    },
+    {
+        "game_name": "Cheesecake Cool Conrad",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/cheesecake-cool-conrad"
+    },
+    {
+        "game_name": "The Next Penelope",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-next-penelope"
+    },
+    {
+        "game_name": "Wings! Remastered Edition",
+        "game_price": "645 руб.",
+        "game_url": "https://steam-account.ru/oplata/wings-remastered-edition"
+    },
+    {
+        "game_name": "Cities: Skylines - Sunny Breeze Radio",
+        "game_price": "58 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-sunny-breeze-radio-steam-key"
+    },
+    {
+        "game_name": "Handball 17",
+        "game_price": "1895 руб.",
+        "game_url": "https://steam-account.ru/oplata/handball-17-steam-key"
+    },
+    {
+        "game_name": "Crusader Kings II: Charlemagne",
+        "game_price": "348 руб.",
+        "game_url": "https://steam-account.ru/oplata/crusader-kings-ii-charlemagne"
+    },
+    {
+        "game_name": "AO Tennis 2",
+        "game_price": "1649 руб.",
+        "game_url": "https://steam-account.ru/oplata/ao-tennis-2"
+    },
+    {
+        "game_name": "Trillion: God of Destruction",
+        "game_price": "259 руб.",
+        "game_url": "https://steam-account.ru/oplata/trillion-god-of-destruction"
+    },
+    {
+        "game_name": "Paper Beast - Folded Edition",
+        "game_price": "425 руб.",
+        "game_url": "https://steam-account.ru/oplata/paper-beast-folded-edition-steam-key"
+    },
+    {
+        "game_name": "Tennis World Tour 2",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/tennis-world-tour-2-steam-key"
+    },
+    {
+        "game_name": "Fortified",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/fortified-key"
+    },
+    {
+        "game_name": "Death Stranding",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/death-stranding-steam-account-offline"
+    },
+    {
+        "game_name": "LEGO Harry Potter: Years 5-7",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-harry-potter-years-5-7"
+    },
+    {
+        "game_name": "LEGO Marvel Super Heroes 2",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-marvel-super-heroes-2"
+    },
+    {
+        "game_name": "Partisans 1941",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/partisans-1941"
+    },
+    {
+        "game_name": "Blasphemous",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/blasphemous"
+    },
+    {
+        "game_name": "World War Z: Aftermath - Deluxe Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/world-war-z-aftermath-deluxe-edition-key"
+    },
+    {
+        "game_name": "VCB: Why City 4k",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/vcb-why-city-4k"
+    },
+    {
+        "game_name": "Humble Indie Bundle 6 (Vessel + Torchlight + Space Pirates and Zombies + Rochard + Shatter)",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/hib_6_kupit"
+    },
+    {
+        "game_name": "Battle Chasers: Nightwar",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/battle-chasers-nightwar"
+    },
+    {
+        "game_name": "Just Cause 3 XXL Edition",
+        "game_price": "499 руб.",
+        "game_url": "https://steam-account.ru/oplata/just-cause-3-xxl-edition"
+    },
+    {
+        "game_name": "Darkest Dungeon",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/darkest-dungeon"
+    },
+    {
+        "game_name": "Stellaris: MegaCorp",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/stellaris-megacorp"
+    },
+    {
+        "game_name": "Warhammer 40,000: Dawn of War III",
+        "game_price": "720 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-40000-dawn-of-war-3"
+    },
+    {
+        "game_name": "Wurm Unlimited",
+        "game_price": "375 руб.",
+        "game_url": "https://steam-account.ru/oplata/wurm-unlimited"
+    },
+    {
+        "game_name": "Agents of Mayhem",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/agents-of-mayhem"
+    },
+    {
+        "game_name": "Reigns: Her Majesty",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/reigns-her-majesty-steam-key"
+    },
+    {
+        "game_name": "Worms Reloaded: Game of the Year Edition",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-reloaded-game-of-the-year-edition"
+    },
+    {
+        "game_name": "Outcast - Second Contact",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/outcast-second-contact"
+    },
+    {
+        "game_name": "Forge of Gods: Dragon Trainer pack",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-dragon-trainer-pack"
+    },
+    {
+        "game_name": "Mortal Kombat 11 Kombat Pack 1",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-11-kombat-pack"
+    },
+    {
+        "game_name": "Remothered: Broken Porcelain",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/remothered-broken-porcelain"
+    },
+    {
+        "game_name": "Kholat",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/kholat"
+    },
+    {
+        "game_name": "Worms Ultimate Mayhem - Deluxe Edition",
+        "game_price": "139 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-ultimate-mayhem-deluxe"
+    },
+    {
+        "game_name": "Lovecraft's Untold Stories",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/lovecraft-s-untold-stories-key"
+    },
+    {
+        "game_name": "Euro Truck Simulator 2 - Global Region (для любой страны)",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/euro-truck-simulator-2-region-free"
+    },
+    {
+        "game_name": "We Happy Few",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/we-happy-few"
+    },
+    {
+        "game_name": "Tales of Berseria",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/tales-of-berseria"
+    },
+    {
+        "game_name": "The Red Solstice",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-red-solstice"
+    },
+    {
+        "game_name": "Guts and Glory",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/guts-and-glory"
+    },
+    {
+        "game_name": "Bus Driver Simulator",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/bus-driver-simulator-steam-key"
+    },
+    {
+        "game_name": "Project CARS 2",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/project-cars-2"
+    },
+    {
+        "game_name": "The Incredible Adventures of Van Helsing",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-incredible-adventures-of-van-helsing"
+    },
+    {
+        "game_name": "Tropico 4: Steam Special Edition",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/tropico-4-kupit"
+    },
+    {
+        "game_name": "Ken Follett's The Pillars of the Earth",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/ken-follett-s-the-pillars-of-the-earth"
+    },
+    {
+        "game_name": "Soulcalibur VI",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/soulcalibur-vi"
+    },
+    {
+        "game_name": "Little Nightmares II",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/little-nightmares-ii-steam-key"
+    },
+    {
+        "game_name": "Marauder (Мародер)",
+        "game_price": "24 руб.",
+        "game_url": "https://steam-account.ru/oplata/marauder"
+    },
+    {
+        "game_name": "Stygian: Reign of the Old Ones",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/stygian-reign-of-the-old-ones"
+    },
+    {
+        "game_name": "Max Payne",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/max-payne"
+    },
+    {
+        "game_name": "Amnesia: A Machine for Pigs",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/amnesia-a-machine-for-pigs-kupit"
+    },
+    {
+        "game_name": "Metro Exodus",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-exodus-steam-key"
+    },
+    {
+        "game_name": "Crazy Machines 3",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/crazy-machines-3"
+    },
+    {
+        "game_name": "Tales of Zestiria",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/tales-of-zestiria"
+    },
+    {
+        "game_name": "Flesh Eaters",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/flesh-eaters"
+    },
+    {
+        "game_name": "Risky Rescue",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/risky-rescue"
+    },
+    {
+        "game_name": "Loot Hero DX",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/loot-hero-dx"
+    },
+    {
+        "game_name": "Two Worlds II: Velvet Edition",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/two-worlds-2-velvet-edition-steam-key"
+    },
+    {
+        "game_name": "Dungeons 3",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeons-3"
+    },
+    {
+        "game_name": "Journey",
+        "game_price": "189 руб.",
+        "game_url": "https://steam-account.ru/oplata/journey"
+    },
+    {
+        "game_name": "Mortal Kombat XL",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-xl-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Middle-earth: Shadow of Mordor",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/middle-earth-shadow-of-mordor"
+    },
+    {
+        "game_name": "Guns n Zombies",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/guns-n-zombies"
+    },
+    {
+        "game_name": "Overcooked",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/overcooked"
+    },
+    {
+        "game_name": "Ultra Street Fighter IV",
+        "game_price": "295 руб.",
+        "game_url": "https://steam-account.ru/oplata/ultra-street-fighter-4"
+    },
+    {
+        "game_name": "ARMA 2 Combined Operations(+mod Day z) - Region Free",
+        "game_price": "549 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-2-combined-operations-mod-day-z-region-free"
+    },
+    {
+        "game_name": "XCOM 2",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/xcom-2"
+    },
+    {
+        "game_name": "Magicite",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/magicite"
+    },
+    {
+        "game_name": "Party Hard 2 DLC: Alien Butt Form",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/party-hard-2-dlc-alien-butt-form-steam-key"
+    },
+    {
+        "game_name": "IL-2 Sturmovik: 1946",
+        "game_price": "375 руб.",
+        "game_url": "https://steam-account.ru/oplata/il-2-sturmovik-1946"
+    },
+    {
+        "game_name": "GOD EATER 3",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/god-eater-3"
+    },
+    {
+        "game_name": "Battlerite LITE",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/battlerite-lite"
+    },
+    {
+        "game_name": "Contra Anniversary Collection",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/contra-anniversary-collection"
+    },
+    {
+        "game_name": "STAR WARS Jedi Knight II - Jedi Outcast",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-jedi-knight-2-jedi-outcast"
+    },
+    {
+        "game_name": "Two Worlds Collection",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/two-worlds-collection"
+    },
+    {
+        "game_name": "Black Book (Черная Книга)",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/black-book"
+    },
+    {
+        "game_name": "Deathgarden: BLOODHARVEST",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/deathgarden"
+    },
+    {
+        "game_name": "One Piece Pirate Warriors 3",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-pirate-warriors-3"
+    },
+    {
+        "game_name": "Torchlight",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/torchlight"
+    },
+    {
+        "game_name": "8infinity",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/8infinity"
+    },
+    {
+        "game_name": "Lakeview Cabin Collection",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/lakeview-cabin-collection"
+    },
+    {
+        "game_name": "SuperPower 2 Steam Edition",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/superpower-2-steam-edition"
+    },
+    {
+        "game_name": "Battle vs Chess",
+        "game_price": "28 руб.",
+        "game_url": "https://steam-account.ru/oplata/battle-vs-chess"
+    },
+    {
+        "game_name": "Hard Truck Apocalypse / Ex Machina",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/hard-truck-apocalypse-ex-machina"
+    },
+    {
+        "game_name": "CONTRA: ROGUE CORPS",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/contra-rogue-corps"
+    },
+    {
+        "game_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden"
+    },
+    {
+        "game_name": "Sniper Ghost Warrior Contracts",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-ghost-warrior-contracts"
+    },
+    {
+        "game_name": "Dying Light: The Bozak Horde",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/dying-light-the-bozak-horde"
+    },
+    {
+        "game_name": "Mount & Blade",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/mount-blade"
+    },
+    {
+        "game_name": "Arma 3 Karts",
+        "game_price": "27 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-3-karts"
+    },
+    {
+        "game_name": "Lords of the Fallen Game of the Year Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/lords-of-the-fallen-game-of-the-year-steam-key"
+    },
+    {
+        "game_name": "Beholder 3",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/beholder-3-steam-key"
+    },
+    {
+        "game_name": "Homeworld: Deserts of Kharak",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/homeworld-deserts-of-kharak"
+    },
+    {
+        "game_name": "Arma 2: Private Military Company",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-2-private-military-company"
+    },
+    {
+        "game_name": "The LEGO Movie - Videogame",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-lego-movie-videogame"
+    },
+    {
+        "game_name": "Distrust",
+        "game_price": "40 руб.",
+        "game_url": "https://steam-account.ru/oplata/distrust-polar-survival"
+    },
+    {
+        "game_name": "Hatred",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/hatred"
+    },
+    {
+        "game_name": "Edna & Harvey: The Breakout - Anniversary Edition",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/edna-harvey-the-breakout-anniversary-edition"
+    },
+    {
+        "game_name": "Outer Wilds",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/outer-wilds"
+    },
+    {
+        "game_name": "Out of Reach",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/out-of-reach"
+    },
+    {
+        "game_name": "Verdun",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/verdun-gift"
+    },
+    {
+        "game_name": "Heli Heroes",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/heli-heroes"
+    },
+    {
+        "game_name": "CryoFall",
+        "game_price": "139 руб.",
+        "game_url": "https://steam-account.ru/oplata/cryofall"
+    },
+    {
+        "game_name": "Sword Art Online: Lost Song",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/sword-art-online-lost-song"
+    },
+    {
+        "game_name": "Tropico 4 Collector's Bundle",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/tropico-4-collectors-bundle"
+    },
+    {
+        "game_name": "Back to Bed",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/back-to-bed"
+    },
+    {
+        "game_name": "Borderlands 2: Ultimate Vault Hunters Upgrade Pack",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-2-ultimate-vault-hunters-upgrade-pack"
+    },
+    {
+        "game_name": "Sniper: Ghost Warrior 2",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper_ghost_warrior_2_kupit"
+    },
+    {
+        "game_name": "Lovers ' Smiles",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/lovers-smiles"
+    },
+    {
+        "game_name": "MudRunner American Wilds Edition",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/mudrunner-american-wilds-edition-steam-key"
+    },
+    {
+        "game_name": "Batman: Arkham Origins Blackgate - Deluxe Edition",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-origins-blackgate-deluxe-edition"
+    },
+    {
+        "game_name": "Five Nights at Freddy's 3",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy%27s-3-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Star Project",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-project"
+    },
+    {
+        "game_name": "One Piece Burning Blood - Gold Edition",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-burning-blood-gold-edition-key"
+    },
+    {
+        "game_name": "This War of Mine: Stories - Fading Embers (ep. 3)",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/this-war-of-mine-stories-fading-embers-ep-3-steam-key"
+    },
+    {
+        "game_name": "Telltale Texas Hold ‘Em",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/telltale-texas-hold-em"
+    },
+    {
+        "game_name": "Battlestar Galactica Deadlock",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/battlestar-galactica-deadlock"
+    },
+    {
+        "game_name": "Energy Balance",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/energy-balance"
+    },
+    {
+        "game_name": "BAJA: Edge of Control HD",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/baja-edge-of-control-hd"
+    },
+    {
+        "game_name": "Shenmue III",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/shenmue-3"
+    },
+    {
+        "game_name": "Disciples: Liberation",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/disciples-liberation-steam-key"
+    },
+    {
+        "game_name": "Serious Sam: The Random Encounter",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-the-random-encounter"
+    },
+    {
+        "game_name": "Among the Sleep - Enhanced Edition",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/among-the-sleep"
+    },
+    {
+        "game_name": "Blood Bowl 2",
+        "game_price": "134 руб.",
+        "game_url": "https://steam-account.ru/oplata/blood-bowl-2"
+    },
+    {
+        "game_name": "Dead In Bermuda",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-in-bermuda"
+    },
+    {
+        "game_name": "When Ski Lifts Go Wrong",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/when-ski-lifts-go-wrong"
+    },
+    {
+        "game_name": "Rising Storm 2: Vietnam - Green Army Men",
+        "game_price": "115 руб.",
+        "game_url": "https://steam-account.ru/oplata/green-army-men"
+    },
+    {
+        "game_name": "Airships: Conquer the Skies",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/airships-conquer-the-skies-steam-account-shared-offline"
+    },
+    {
+        "game_name": "POSTAL 4: No Regerts",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/postal-4-no-regerts"
+    },
+    {
+        "game_name": "Swag and Sorcery",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/swag-and-sorcery"
+    },
+    {
+        "game_name": "RUSSIAPHOBIA",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/russhiaphobia-steam-key"
+    },
+    {
+        "game_name": "The Next Door",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-next-door"
+    },
+    {
+        "game_name": "Dungeons 3",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeons-3-epic-games-account"
+    },
+    {
+        "game_name": "Deck of Ashes",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/deck-of-ashes"
+    },
+    {
+        "game_name": "Necromunda: Hired Gun",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/necromunda-hired-gun-steam-key"
+    },
+    {
+        "game_name": "The Warlock of Firetop Mountain",
+        "game_price": "33 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-warlock-of-firetop-mountain"
+    },
+    {
+        "game_name": "Genesis Rising",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/genesis-rising"
+    },
+    {
+        "game_name": "AGON - The Lost Sword of Toledo",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/agon-the-lost-sword-of-toledo"
+    },
+    {
+        "game_name": "Lovely Planet",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/lovely-planet"
+    },
+    {
+        "game_name": "Battlefield 4 Premium Edition",
+        "game_price": "1440 руб.",
+        "game_url": "https://steam-account.ru/oplata/battlefield-4-premium-edition-steam-key"
+    },
+    {
+        "game_name": "Tachyon: The Fringe",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/tachyon-the-fringe"
+    },
+    {
+        "game_name": "Starpoint Gemini Warlords: Rise of Numibia",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/starpoint-gemini-warlords-rise-of-numibia"
+    },
+    {
+        "game_name": "Tharsis",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/tharsis"
+    },
+    {
+        "game_name": "Serious Sam HD Gold Pack",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-hd-gold-pack-steam-key"
+    },
+    {
+        "game_name": "Forgive Me Father",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/forgive-me-father-steam-key"
+    },
+    {
+        "game_name": "Abandon Ship",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/abandon-ship"
+    },
+    {
+        "game_name": "Shiness: The Lightning Kingdom",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/shiness-the-lightning-kingdom"
+    },
+    {
+        "game_name": "Age of Empires II: Definitive Edition",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-empires-2-definitive-edition"
+    },
+    {
+        "game_name": "Jump Stars",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/jump-stars"
+    },
+    {
+        "game_name": "Cook, Serve, Delicious! 2!!",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/cook-serve-delicious-2"
+    },
+    {
+        "game_name": "BATTLETECH Shadow Hawk Pack",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/battletech-shadow-hawk-pack-steam-key"
+    },
+    {
+        "game_name": "Hogwarts Legacy Deluxe Edition (Хогвартс. Наследие) для Украины и Казахстана",
+        "game_price": "2340 руб.",
+        "game_url": "https://steam-account.ru/oplata/hogwarts-legacy-deluxe-edition-steam-key"
+    },
+    {
+        "game_name": "LEGO The Incredibles",
+        "game_price": "275 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-the-incredibles"
+    },
+    {
+        "game_name": "The Franz Kafka Videogame",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-franz-kafka-videogame"
+    },
+    {
+        "game_name": "BATTLETECH Flashpoint",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/battletech-flashpoint"
+    },
+    {
+        "game_name": "Sid Meier’s Civilization VI Anthology",
+        "game_price": "1999 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meier-s-civilization-vi-anthology-key"
+    },
+    {
+        "game_name": "Iron Danger",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/iron-danger"
+    },
+    {
+        "game_name": "Sigma Theory: Global Cold War",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/sigma-theory-global-cold-war"
+    },
+    {
+        "game_name": "Sid Meier's Pirates! (Sid Meiers Pirates!)",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-pirates"
+    },
+    {
+        "game_name": "Hover",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/hover-revolt-of-gamers"
+    },
+    {
+        "game_name": "Biozone",
+        "game_price": "18 руб.",
+        "game_url": "https://steam-account.ru/oplata/biozone-steam-key"
+    },
+    {
+        "game_name": "BLACKHOLE",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/blackhole"
+    },
+    {
+        "game_name": "Laraan",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/laraan"
+    },
+    {
+        "game_name": "Darksiders III Deluxe Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/darksiders-3-deluxe"
+    },
+    {
+        "game_name": "Hard West",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/hard-west"
+    },
+    {
+        "game_name": "LEGO Batman 2 DC Super Heroes",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-batman-2-dc-super-heroes"
+    },
+    {
+        "game_name": "Call of Duty: Modern Warfare II",
+        "game_price": "4945 руб.",
+        "game_url": "https://steam-account.ru/oplata/call-of-duty-modern-warfare-ii-steam-key"
+    },
+    {
+        "game_name": "FIVE NIGHTS AT FREDDY'S: HELP WANTED",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddys-help-wanted-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Injustice 2 Legendary Edition",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/injustice-2"
+    },
+    {
+        "game_name": "LEGO MARVEL's Avengers",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-marvel-s-avengers"
+    },
+    {
+        "game_name": "Disciples III - Resurrection",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/disciples-3-resurrection"
+    },
+    {
+        "game_name": "Goat Simulator",
+        "game_price": "265 руб.",
+        "game_url": "https://steam-account.ru/oplata/goat-simulator-ru-sng"
+    },
+    {
+        "game_name": "Port Royale 3",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/port-royale-3"
+    },
+    {
+        "game_name": "Bone: The Great Cow Race",
+        "game_price": "37 руб.",
+        "game_url": "https://steam-account.ru/oplata/bone-the-great-cow-race"
+    },
+    {
+        "game_name": "Realpolitiks",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/realpolitiks"
+    },
+    {
+        "game_name": "Guns of Icarus Alliance",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/guns-of-icarus-alliance"
+    },
+    {
+        "game_name": "Рандом ARK: Survival Evolved",
+        "game_price": "477 руб.",
+        "game_url": "https://steam-account.ru/oplata/ark-survival-evolved-random"
+    },
+    {
+        "game_name": "POSTAL 2: Paradise Lost",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/postal-2-paradise-lost"
+    },
+    {
+        "game_name": "Dead Synchronicity: Tomorrow Comes Today",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-synchronicity-tomorrow-comes-today"
+    },
+    {
+        "game_name": "Hammerwatch",
+        "game_price": "139 руб.",
+        "game_url": "https://steam-account.ru/oplata/hammerwatch"
+    },
+    {
+        "game_name": "John Wick Hex",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/john-wick-hex"
+    },
+    {
+        "game_name": "Screencheat",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/screencheat"
+    },
+    {
+        "game_name": "Bone: Out From Boneville",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/bone-out-from-boneville"
+    },
+    {
+        "game_name": "What Remains of Edith Finch",
+        "game_price": "149 руб.",
+        "game_url": "https://steam-account.ru/oplata/what-remains-of-edith-finch"
+    },
+    {
+        "game_name": "Five Nights at Freddy's 4",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddys-4-steam-account-shared-offline"
+    },
+    {
+        "game_name": "GRIP: Combat Racing - Artifex Car Pack",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/grip-combat-racing-artifex-car-pack-steam-key"
+    },
+    {
+        "game_name": "Shooting Stars!",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/shooting-stars"
+    },
+    {
+        "game_name": "Superliminal",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/superliminal-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Headsnatchers",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/headsnatchers"
+    },
+    {
+        "game_name": "Monstrum",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/monstrum"
+    },
+    {
+        "game_name": "The LEGO NINJAGO Movie Video Game",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-lego-ninjago-movie-videogame-steam-key"
+    },
+    {
+        "game_name": "Watch_Dogs",
+        "game_price": "2970 руб.",
+        "game_url": "https://steam-account.ru/oplata/watch-dogs-steam-cluch"
+    },
+    {
+        "game_name": "MY HERO ONE'S JUSTICE 2",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/my-hero-ones-justice-2"
+    },
+    {
+        "game_name": "Amnesia: Rebirth",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/amnesia-rebirth"
+    },
+    {
+        "game_name": "Minion Masters - Voidborne Onslaught",
+        "game_price": "389 руб.",
+        "game_url": "https://steam-account.ru/oplata/minion-masters-voidborne-onslaught"
+    },
+    {
+        "game_name": "Destroy All Humans!",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/destroy-all-humans!"
+    },
+    {
+        "game_name": "Port Royale 2",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/port-royale-2"
+    },
+    {
+        "game_name": "Take On Helicopters",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/take-on-helicopters"
+    },
+    {
+        "game_name": "1954 Alcatraz",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/1954-alcatraz"
+    },
+    {
+        "game_name": "Kingdom Come: Deliverance – Artbook",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/kingdom-come-deliverance-artbook-steam-key"
+    },
+    {
+        "game_name": "The Dark Eye: Memoria (Memoria)",
+        "game_price": "27 руб.",
+        "game_url": "https://steam-account.ru/oplata/memoria"
+    },
+    {
+        "game_name": "Just Cause 4 Complete Edition",
+        "game_price": "599 руб.",
+        "game_url": "https://steam-account.ru/oplata/just-cause-4-complete-edition-steam-key"
+    },
+    {
+        "game_name": "Space Rangers: Quest",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/space-rangers-quest"
+    },
+    {
+        "game_name": "Silence",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/silence"
+    },
+    {
+        "game_name": "Lara Croft and the Guardian of Light",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/lara-croft-and-the-guardian-of-light"
+    },
+    {
+        "game_name": "Puzzle Agent",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/puzzle-agent"
+    },
+    {
+        "game_name": "Yesterday Origins",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/yesterday-origins"
+    },
+    {
+        "game_name": "Styx: Shards of Darkness",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/styx-shards-of-darkness"
+    },
+    {
+        "game_name": "Hard Truck Apocalypse: Arcade / Ex Machina: Arcade",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/hard-truck-apocalypse-arcade-ex-machina-arcade"
+    },
+    {
+        "game_name": "Batman: Arkham Knight Premium Edition",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-knight-premium-edition"
+    },
+    {
+        "game_name": "Gauntlet Slayer Edition",
+        "game_price": "384 руб.",
+        "game_url": "https://steam-account.ru/oplata/gauntlet"
+    },
+    {
+        "game_name": "LEGO Jurassic World",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-jurassic-world"
+    },
+    {
+        "game_name": "Forge of Gods: Guardians of the Universe Pack",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/forge-of-gods-guardians-of-the-universe-pack"
+    },
+    {
+        "game_name": "American Truck Simulator - Wheel Tuning Pack",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/american-truck-simulator-wheel-tuning-pack"
+    },
+    {
+        "game_name": "Puzzle Agent 2",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/puzzle-agent-2"
+    },
+    {
+        "game_name": "Frontlines: Fuel of War",
+        "game_price": "68 руб.",
+        "game_url": "https://steam-account.ru/oplata/frontlines-fuel-of-war"
+    },
+    {
+        "game_name": "ONE PIECE World Seeker",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-world-seeker"
+    },
+    {
+        "game_name": "Project CARS Limited Edition",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/project-cars-limited-edition-steam-key"
+    },
+    {
+        "game_name": "Farming Simulator 15 Gold Edition",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/farming-simulator-15-gold-edition-key"
+    },
+    {
+        "game_name": "Fell Seal: Arbiter's Mark",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/fell-seal-arbiter-s-mark"
+    },
+    {
+        "game_name": "Styx: Master of Shadows",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/styx-master-of-shadows"
+    },
+    {
+        "game_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - Season Pass",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden-ultimate-ninja-storm-4-season-pass"
+    },
+    {
+        "game_name": "Sid Meiers Civilization IV - The Complete Edition",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-civilization-iv"
+    },
+    {
+        "game_name": "Tempest: Pirate Action RPG",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/tempest"
+    },
+    {
+        "game_name": "MudRunner (Spintires: MudRunner)",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/spintires-mudrunner"
+    },
+    {
+        "game_name": "The Incredible Adventures of Van Helsing II (Van Helsing 2. Смерти вопреки)",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-incredible-adventures-of-van-helsing-2"
+    },
+    {
+        "game_name": "Main Assembly",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/main-assembly"
+    },
+    {
+        "game_name": "LEGO Batman",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-batman"
+    },
+    {
+        "game_name": "Redeemer: Enhanced Edition",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/redeemer"
+    },
+    {
+        "game_name": "Five Nights at Freddy's",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy-s-steam-account-shared-offline"
+    },
+    {
+        "game_name": "SEUM: Speedrunners from Hell",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/seum-speedrunners-from-hell"
+    },
+    {
+        "game_name": "Tumblestone",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/tumblestone"
+    },
+    {
+        "game_name": "LEGO City Undercover",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-city-undercover"
+    },
+    {
+        "game_name": "AER Memories of Old",
+        "game_price": "33 руб.",
+        "game_url": "https://steam-account.ru/oplata/aer"
+    },
+    {
+        "game_name": "Warhammer 40,000: Sanctus Reach",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-40-000-sanctus-reach"
+    },
+    {
+        "game_name": "Prison Architect - Psych Ward: Warden's Edition",
+        "game_price": "89 руб.",
+        "game_url": "https://steam-account.ru/oplata/prison-architect-psych-ward-wardens-edition"
+    },
+    {
+        "game_name": "SKYHILL",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/skyhill"
+    },
+    {
+        "game_name": "Mortal Kombat 11 Kombat Pack 2",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-11-kombat-pack-2"
+    },
+    {
+        "game_name": "80 Days",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/80-days"
+    },
+    {
+        "game_name": "One Piece Burning Blood",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-burning-blood"
+    },
+    {
+        "game_name": "PAYDAY 2",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-global"
+    },
+    {
+        "game_name": "SpellForce - Platinum Edition",
+        "game_price": "48 руб.",
+        "game_url": "https://steam-account.ru/oplata/spellforce-platinum-edition"
+    },
+    {
+        "game_name": "Full Mojo Rampage",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/full-mojo-rampage"
+    },
+    {
+        "game_name": "Mount & Blade: Warband",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/mount_and_blade_warband_kupit"
+    },
+    {
+        "game_name": "Chicken Shoot 2",
+        "game_price": "10 руб.",
+        "game_url": "https://steam-account.ru/oplata/chicken-shoot-2-steam-key"
+    },
+    {
+        "game_name": "Hacknet",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/hacknet-account-steam"
+    },
+    {
+        "game_name": "Five Nights at Freddy's Franchise Pack (1-4)",
+        "game_price": "270 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy-s-franchise-pack-1-4-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Railway Empire",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/railway-empire"
+    },
+    {
+        "game_name": "DEATHLOOP",
+        "game_price": "899 руб.",
+        "game_url": "https://steam-account.ru/oplata/deathloop"
+    },
+    {
+        "game_name": "Borderlands 2: Mechromancer Pack",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/borderlands-2-mechromancer-pack"
+    },
+    {
+        "game_name": "Dying Light Enhanced Edition - Европа",
+        "game_price": "640 руб.",
+        "game_url": "https://steam-account.ru/oplata/dying-light-enhanced-edition-europe-steam-key"
+    },
+    {
+        "game_name": "Legacy of Dorn: Herald of Oblivion",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/legacy-of-dorn-herald-of-oblivion"
+    },
+    {
+        "game_name": "Trident's Wake",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/tridents-wake"
+    },
+    {
+        "game_name": "Heroes of Hammerwatch",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/heroes-of-hammerwatch-steam-key"
+    },
+    {
+        "game_name": "Spacebase Startopia",
+        "game_price": "1349 руб.",
+        "game_url": "https://steam-account.ru/oplata/spacebase-startopia"
+    },
+    {
+        "game_name": "Spacebase Startopia - Extended Edition",
+        "game_price": "1575 руб.",
+        "game_url": "https://steam-account.ru/oplata/spacebase-startopia-extended-edition"
+    },
+    {
+        "game_name": "Port Royale 4 - Extended Edition",
+        "game_price": "1699 руб.",
+        "game_url": "https://steam-account.ru/oplata/port-royale-4-extended-edition"
+    },
+    {
+        "game_name": "Starpoint Gemini Warlords - Upgrade to Digital Deluxe",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/starpoint-gemini-warlords-upgrade-to-digital-deluxe"
+    },
+    {
+        "game_name": "Filament: Marmalade Edition",
+        "game_price": "418 руб.",
+        "game_url": "https://steam-account.ru/oplata/filament-marmalade-edition"
+    },
+    {
+        "game_name": "Aquanox Deep Descent",
+        "game_price": "1499 руб.",
+        "game_url": "https://steam-account.ru/oplata/aquanox-deep-descent"
+    },
+    {
+        "game_name": "STAR WARS: Rogue Squadron 3D",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-rogue-squadron-3d"
+    },
+    {
+        "game_name": "Citizens of Space",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/citizens-of-space"
+    },
+    {
+        "game_name": "Glass Masquerade",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/glass-masquerade"
+    },
+    {
+        "game_name": "The Bradwell Conspiracy",
+        "game_price": "395 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-bradwell-conspiracy"
+    },
+    {
+        "game_name": "GetsuFumaDen: Undying Moon",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/getsufumaden-undying-moon-steam-key"
+    },
+    {
+        "game_name": "BEAT ARENA",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/beat-arena-steam-key"
+    },
+    {
+        "game_name": "Shortest Trip to Earth",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/shortest-trip-to-earth"
+    },
+    {
+        "game_name": "Fantasy General II",
+        "game_price": "699 руб.",
+        "game_url": "https://steam-account.ru/oplata/fantasy-general-ii"
+    },
+    {
+        "game_name": "Crusader Kings II: The Reaper's Due",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/crusader-kings-ii-the-reaper-s-due-steam-key"
+    },
+    {
+        "game_name": "Airline Tycoon 2",
+        "game_price": "485 руб.",
+        "game_url": "https://steam-account.ru/oplata/airline-tycoon-2"
+    },
+    {
+        "game_name": "Ion Assault",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/ion-assault"
+    },
+    {
+        "game_name": "Disney Fairies: Tinker Bell's Adventure",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/disney-fairies-tinker-bell-s-adventure"
+    },
+    {
+        "game_name": "Cargo Commander",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/cargo-commander"
+    },
+    {
+        "game_name": "Overruled!",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/overruled"
+    },
+    {
+        "game_name": "Grand Ages: Medieval",
+        "game_price": "775 руб.",
+        "game_url": "https://steam-account.ru/oplata/grand-ages-medieval"
+    },
+    {
+        "game_name": "Tyranny - Portrait Pack",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/tyranny-portrait-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Indian Ships Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-indian-ships-unit-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Muslim Ships Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-muslim-ships-unit-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Indian Subcontinent Unit Pack",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-indian-subcontinent-unit-pack"
+    },
+    {
+        "game_name": "PAYDAY 2: Pen Melee Weapon DLC",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-pen-melee-weapon-steam-key"
+    },
+    {
+        "game_name": "Drunken Robot Pornography",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/drunken-robot-pornography"
+    },
+    {
+        "game_name": "Europa Universalis IV: Cradle of Civilization Content Pack",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/content-pack-europa-universalis-iv-cradle-of-civilization"
+    },
+    {
+        "game_name": "Crusader Kings II: Conclave",
+        "game_price": "348 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-crusader-kings-ii-conclave"
+    },
+    {
+        "game_name": "Crusader Kings II: Jade Dragon",
+        "game_price": "295 руб.",
+        "game_url": "https://steam-account.ru/oplata/expansion-crusader-kings-ii-jade-dragon"
+    },
+    {
+        "game_name": "Europa Universalis III: Heir to the Throne",
+        "game_price": "195 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iii-heir-to-the-throne"
+    },
+    {
+        "game_name": "Age of Wonders III - Eternal Lords Expansion",
+        "game_price": "415 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-wonders-iii-eternal-lords-expansion-steam-key"
+    },
+    {
+        "game_name": "Dark Gates",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/dark-gates"
+    },
+    {
+        "game_name": "Cities: Skylines - Coast to Coast Radio",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-coast-to-coast-radio-steam-key"
+    },
+    {
+        "game_name": "Cheesecake Cool Conrad",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/cheesecake-cool-conrad"
+    },
+    {
+        "game_name": "The Next Penelope",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-next-penelope"
+    },
+    {
+        "game_name": "Wings! Remastered Edition",
+        "game_price": "645 руб.",
+        "game_url": "https://steam-account.ru/oplata/wings-remastered-edition"
+    },
+    {
+        "game_name": "Cities: Skylines - Sunny Breeze Radio",
+        "game_price": "58 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-sunny-breeze-radio-steam-key"
+    },
+    {
+        "game_name": "Townsmen - A Kingdom Rebuilt",
+        "game_price": "595 руб.",
+        "game_url": "https://steam-account.ru/oplata/townsmen-a-kingdom-rebuilt"
+    },
+    {
+        "game_name": "Handball 17",
+        "game_price": "1895 руб.",
+        "game_url": "https://steam-account.ru/oplata/handball-17-steam-key"
+    },
+    {
+        "game_name": "Crusader Kings II: Charlemagne",
+        "game_price": "348 руб.",
+        "game_url": "https://steam-account.ru/oplata/crusader-kings-ii-charlemagne"
+    },
+    {
+        "game_name": "AO Tennis 2",
+        "game_price": "1649 руб.",
+        "game_url": "https://steam-account.ru/oplata/ao-tennis-2"
+    },
+    {
+        "game_name": "Trillion: God of Destruction",
+        "game_price": "259 руб.",
+        "game_url": "https://steam-account.ru/oplata/trillion-god-of-destruction"
+    },
+    {
+        "game_name": "Paper Beast - Folded Edition",
+        "game_price": "425 руб.",
+        "game_url": "https://steam-account.ru/oplata/paper-beast-folded-edition-steam-key"
+    },
+    {
+        "game_name": "Fortified",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/fortified-key"
+    },
+    {
+        "game_name": "Serious Sam HD Gold Pack",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/serious-sam-hd-gold-pack-steam-key"
+    },
+    {
+        "game_name": "Forgive Me Father",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/forgive-me-father-steam-key"
+    },
+    {
+        "game_name": "PAYDAY 2: Electarodent and Titan Masks DLC",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/payday-2-electarodent-and-titan-masks"
+    },
+    {
+        "game_name": "Shiness: The Lightning Kingdom",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/shiness-the-lightning-kingdom"
+    },
+    {
+        "game_name": "FAR: Lone Sails",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/far-lone-sails-steam-key"
+    },
+    {
+        "game_name": "The Watchmaker",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-watchmaker"
+    },
+    {
+        "game_name": "Hogwarts Legacy Deluxe Edition (Хогвартс. Наследие) для Украины и Казахстана",
+        "game_price": "2340 руб.",
+        "game_url": "https://steam-account.ru/oplata/hogwarts-legacy-deluxe-edition-steam-key"
+    },
+    {
+        "game_name": "Alien Spidy",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/alien-spidy"
+    },
+    {
+        "game_name": "Ratz Instagib",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/ratz-instagib"
+    },
+    {
+        "game_name": "New Gundam Breaker",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/new-gundam-breaker-key"
+    },
+    {
+        "game_name": "My Farm",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/my-farm"
+    },
+    {
+        "game_name": "ShipLord",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/shiplord"
+    },
+    {
+        "game_name": "Castlevania Advance Collection",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/castlevania-advance-collection-steam-key"
+    },
+    {
+        "game_name": "Lucius II",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/lucius-2"
+    },
+    {
+        "game_name": "Trash Sailors",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/trash-sailors"
+    },
+    {
+        "game_name": "Observation",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/observation-steam-key"
+    },
+    {
+        "game_name": "Rogue Stormers",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/rogue-stormers-key"
+    },
+    {
+        "game_name": "7 Days to Die",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/7-days-to-die-steam-key"
+    },
+    {
+        "game_name": "Chip",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/chip"
+    },
+    {
+        "game_name": "STAR WARS Jedi: Fallen Order",
+        "game_price": "990 руб.",
+        "game_url": "https://steam-account.ru/oplata/star-wars-jedi-fallen-order-steam-key"
+    },
+    {
+        "game_name": "Tropico 3: Absolute Power",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/tropico-3-absolute-power"
+    },
+    {
+        "game_name": "Batman: Arkham VR",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/batman-arkham-vr"
+    },
+    {
+        "game_name": "Siege Survival: Gloria Victis",
+        "game_price": "289 руб.",
+        "game_url": "https://steam-account.ru/oplata/gloria-victis-siege-survival"
+    },
+    {
+        "game_name": "OBEY",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/obey"
+    },
+    {
+        "game_name": "Westerado: Double Barreled",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/westerado-double-barreled"
+    },
+    {
+        "game_name": "Prison Architect: Perfect Storm",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/prison-architect-perfect-storm-steam-key"
+    },
+    {
+        "game_name": "Marooners",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/marooners"
+    },
+    {
+        "game_name": "The Long Journey Home",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-long-journey-home"
+    },
+    {
+        "game_name": "Tom Clancy's Rainbow Six Extraction. Кооператив + онлайн",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/tom-clancys-rainbow-six-extraction-uplay-account"
+    },
+    {
+        "game_name": "Quiplash",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/quiplash-steam-account"
+    },
+    {
+        "game_name": "Session: Skate Sim",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/session-skate-sim-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Cities in Motion 2: European Cities",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-2-european-cities-steam-key"
+    },
+    {
+        "game_name": "Before We Leave",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/before-we-leave-steam-key"
+    },
+    {
+        "game_name": "Broken Sword 3 - the Sleeping Dragon",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/broken-sword-3-the-sleeping-dragon"
+    },
+    {
+        "game_name": "Disciples: Liberation",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/disciples-liberation-steam-account-offline"
+    },
+    {
+        "game_name": "Sword of the Stars II",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/sword-of-the-stars-2"
+    },
+    {
+        "game_name": "Kingdom Two Crowns",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/kingdom-two-crowns"
+    },
+    {
+        "game_name": "Grimind",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/grimind"
+    },
+    {
+        "game_name": "I Am Fish",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/i-am-fish-key"
+    },
+    {
+        "game_name": "Marvel vs. Capcom: Infinite - Digital Deluxe",
+        "game_price": "1999 руб.",
+        "game_url": "https://steam-account.ru/oplata/marvel-vs-capcom-infinite-deluxe"
+    },
+    {
+        "game_name": "Waking Mars",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/waking-mars"
+    },
+    {
+        "game_name": "Sledgehammer / Gear Grinder",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/sledgehammer-gear-grinder"
+    },
+    {
+        "game_name": "Roboquest",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/roboquest-steam-key"
+    },
+    {
+        "game_name": "World of Warships (Мир Кораблей) - бонус-код Леста",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/world-of-warships-lesta-bonus-code"
+    },
+    {
+        "game_name": "Crashlands",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/crashlands-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Geometry Wars 3: Dimensions Evolved",
+        "game_price": "595 руб.",
+        "game_url": "https://steam-account.ru/oplata/geometry-wars-3-dimensions"
+    },
+    {
+        "game_name": "Concrete Jungle",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/concrete-jungle"
+    },
+    {
+        "game_name": "Killsquad",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/killsquad"
+    },
+    {
+        "game_name": "Guns of Icarus Online",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/guns-of-icarus-online"
+    },
+    {
+        "game_name": "Overcooked! 2",
+        "game_price": "198 руб.",
+        "game_url": "https://steam-account.ru/oplata/overcooked-2"
+    },
+    {
+        "game_name": "BROKE PROTOCOL: Online City RPG",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/broke-protocol-online-city-rpg"
+    },
+    {
+        "game_name": "Blackguards",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/blackguards"
+    },
+    {
+        "game_name": "Arma Tactics",
+        "game_price": "28 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-tactics"
+    },
+    {
+        "game_name": "Castlevania: Lords of Shadow 2",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/castlevania-lords-of-shadow-2"
+    },
+    {
+        "game_name": "Abyss Odyssey",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/abyss-odyssey"
+    },
+    {
+        "game_name": "Deus Ex: Mankind Divided",
+        "game_price": "320 руб.",
+        "game_url": "https://steam-account.ru/oplata/deus-ex-mankind-divided"
+    },
+    {
+        "game_name": "Sid Meiers Civilization III Complete",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/sid-meiers-civilization-3"
+    },
+    {
+        "game_name": "ARMA: Gold Edition",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-gold-edition"
+    },
+    {
+        "game_name": "Alan Wake's American Nightmare",
+        "game_price": "87 руб.",
+        "game_url": "https://steam-account.ru/oplata/alan-wake-american-nightmare"
+    },
+    {
+        "game_name": "Crusader Kings II",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/crusader-kings-ii"
+    },
+    {
+        "game_name": "Blackguards 2",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/blackguards-2"
+    },
+    {
+        "game_name": "Deponia Doomsday",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/deponia-doomsday"
+    },
+    {
+        "game_name": "Goodbye Deponia",
+        "game_price": "28 руб.",
+        "game_url": "https://steam-account.ru/oplata/goodbye-deponia"
+    },
+    {
+        "game_name": "Assetto Corsa Competizione",
+        "game_price": "575 руб.",
+        "game_url": "https://steam-account.ru/oplata/assetto-corsa-competizione"
+    },
+    {
+        "game_name": "Mount & Blade: With Fire & Sword",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/mount-blade-with-fire-sword-kupit"
+    },
+    {
+        "game_name": "Eets Munchies",
+        "game_price": "18 руб.",
+        "game_url": "https://steam-account.ru/oplata/eets-munchies"
+    },
+    {
+        "game_name": "Outlast 2",
+        "game_price": "275 руб.",
+        "game_url": "https://steam-account.ru/oplata/outlast-2-steam-key"
+    },
+    {
+        "game_name": "Hitman: Codename 47",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/hitman-codename-47"
+    },
+    {
+        "game_name": "The Janitor",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-janitor"
+    },
+    {
+        "game_name": "Bomber Crew",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/bomber-crew"
+    },
+    {
+        "game_name": "Cities in Motion 2",
+        "game_price": "53 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-2"
+    },
+    {
+        "game_name": "LEGO Worlds",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-worlds"
+    },
+    {
+        "game_name": "Mafia II: Definitive Edition",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/mafia-ii-definitive-edition"
+    },
+    {
+        "game_name": "Arma 2: British Armed Forces",
+        "game_price": "23 руб.",
+        "game_url": "https://steam-account.ru/oplata/arma-2-british-armed-forces"
+    },
+    {
+        "game_name": "Chaos on Deponia",
+        "game_price": "26 руб.",
+        "game_url": "https://steam-account.ru/oplata/chaos-on-deponia"
+    },
+    {
+        "game_name": "Mortal Kombat 11: Aftermath",
+        "game_price": "759 руб.",
+        "game_url": "https://steam-account.ru/oplata/mortal-kombat-11-aftermath"
+    },
+    {
+        "game_name": "Sacred 2 Gold",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/sacred-2-gold"
+    },
+    {
+        "game_name": "Homeworld Remastered Collection",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/homeworld-remastered-collection"
+    },
+    {
+        "game_name": "Naruto Shippuden Ultimate Ninja STORM Trilogy",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/naruto-shippuden-ultimate-ninja-storm-trilogy-steam-key"
+    },
+    {
+        "game_name": "Metro: Last Light (скан)",
+        "game_price": "465 руб.",
+        "game_url": "https://steam-account.ru/oplata/metro-last-light-scan"
+    },
+    {
+        "game_name": "Day of Infamy",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/day-of-infamy"
+    },
+    {
+        "game_name": "Stubbs the Zombie in Rebel Without a Pulse",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/stubbs-the-zombie-in-rebel-without-a-pulse-key"
+    },
+    {
+        "game_name": "Do Not Feed the Monkeys",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/do-not-feed-the-monkeys"
+    },
+    {
+        "game_name": "Gothic 3: Forsaken Gods Enhanced Edition",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/gothic-3-forsaken-gods-enhanced-edition"
+    },
+    {
+        "game_name": "Murdered: Soul Suspect",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/murdered-soul-suspect"
+    },
+    {
+        "game_name": "Fluffy Creatures VS The World",
+        "game_price": "8 руб.",
+        "game_url": "https://steam-account.ru/oplata/fluffy-creatures-vs-the-world"
+    },
+    {
+        "game_name": "Manual Samuel",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/manual-samuel"
+    },
+    {
+        "game_name": "World War II: Panzer Claws",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/world-war-2-panzer-claws"
+    },
+    {
+        "game_name": "Primal Carnage: Extinction",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/primal-carnage-extinction"
+    },
+    {
+        "game_name": "Potion Craft: Alchemist Simulator",
+        "game_price": "215 руб.",
+        "game_url": "https://steam-account.ru/oplata/potion-craft-key"
+    },
+    {
+        "game_name": "Iron Sky: Invasion",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/iron-sky-invasion"
+    },
+    {
+        "game_name": "Total War: Attila",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/total-war-attila"
+    },
+    {
+        "game_name": "Darksiders III",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/darksiders-3"
+    },
+    {
+        "game_name": "LEGO Batman 3: Beyond Gotham",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-batman-3-beyond-gotham"
+    },
+    {
+        "game_name": "Risen 3 - Titan Lords",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/risen-3-titan-lords"
+    },
+    {
+        "game_name": "VCB: Why City 4k",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/vcb-why-city-4k"
+    },
+    {
+        "game_name": "Deep Sky Derelicts",
+        "game_price": "110 руб.",
+        "game_url": "https://steam-account.ru/oplata/deep-sky-derelicts"
+    },
+    {
+        "game_name": "Agent Awesome",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/agent-awesome"
+    },
+    {
+        "game_name": "Kingdom Come: Deliverance – Artbook",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/kingdom-come-deliverance-artbook-steam-key"
+    },
+    {
+        "game_name": "Stacking",
+        "game_price": "68 руб.",
+        "game_url": "https://steam-account.ru/oplata/stacking"
+    },
+    {
+        "game_name": "Alone in the Dark: The New Nightmare",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/alone-in-the-dark-the-new-nightmare"
+    },
+    {
+        "game_name": "Prey",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/prey-epic-games-account"
+    },
+    {
+        "game_name": "Space Rangers: Quest",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/space-rangers-quest"
+    },
+    {
+        "game_name": "Phoenix Point: Year One Edition",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/phoenix-point-year-one-edition-steam-key"
+    },
+    {
+        "game_name": "Rise of Venice",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/rise-of-venice"
+    },
+    {
+        "game_name": "POSTAL Redux",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/postal-redux"
+    },
+    {
+        "game_name": "Cobi Treasure Deluxe",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/cobi-treasure-deluxe"
+    },
+    {
+        "game_name": "Iratus: Lord of the Dead",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/iratus-lord-of-the-dead"
+    },
+    {
+        "game_name": "Tempest - Treasure Lands",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/tempest-treasure-lands"
+    },
+    {
+        "game_name": "LEGO DC Super-Villains",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-dc-super-villains"
+    },
+    {
+        "game_name": "One Piece: Unlimited World Red - Deluxe Edition",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/one-piece-unlimited-world-red-deluxe-edition-key"
+    },
+    {
+        "game_name": "3SwitcheD",
+        "game_price": "15 руб.",
+        "game_url": "https://steam-account.ru/oplata/3switched"
+    },
+    {
+        "game_name": "Total War: SHOGUN 2 - The Hattori Clan Pack",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/total-war-shogun-2-the-hattori-clan-pack-steam-key"
+    },
+    {
+        "game_name": "Crashday Redline Edition",
+        "game_price": "69 руб.",
+        "game_url": "https://steam-account.ru/oplata/crashday-redline-edition-key"
+    },
+    {
+        "game_name": "Mr. Shifty",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/mr-shifty"
+    },
+    {
+        "game_name": "Tower of Time",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/tower-of-time"
+    },
+    {
+        "game_name": "Sniper Elite V2 Remastered",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/sniper-elite-v2-remastered"
+    },
+    {
+        "game_name": "The LEGO Movie 2 Videogame",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-lego-movie-2-videogame"
+    },
+    {
+        "game_name": "Little Nightmares II Deluxe Edition",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/little-nightmares-ii-deluxe-edition-steam-key"
+    },
+    {
+        "game_name": "AVICII Invector",
+        "game_price": "145 руб.",
+        "game_url": "https://steam-account.ru/oplata/avicii-invector"
+    },
+    {
+        "game_name": "Dead Age",
+        "game_price": "58 руб.",
+        "game_url": "https://steam-account.ru/oplata/dead-age"
+    },
+    {
+        "game_name": "Cyber Hook",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/cyber-hook-steam-key"
+    },
+    {
+        "game_name": "Desperados III",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/desperados-iii"
+    },
+    {
+        "game_name": "Toybox Turbos",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/toybox-turbos"
+    },
+    {
+        "game_name": "Dying Light - Crash Test Skin Pack",
+        "game_price": "11 руб.",
+        "game_url": "https://steam-account.ru/oplata/dying-light-crash-test-skin-pack"
+    },
+    {
+        "game_name": "POSTAL 2",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/postal-2-steam-gift"
+    },
+    {
+        "game_name": "Frederic: Resurrection of Music",
+        "game_price": "11 руб.",
+        "game_url": "https://steam-account.ru/oplata/frederic-resurrection-of-music"
+    },
+    {
+        "game_name": "Craft The World",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/craft-the-world-steam-account-shared-offline"
+    },
+    {
+        "game_name": "State of Decay 2: Juggernaut Edition",
+        "game_price": "1199 руб.",
+        "game_url": "https://steam-account.ru/oplata/state-of-decay-2"
+    },
+    {
+        "game_name": "Darkestville Castle",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/darkestville-castle-steam-key"
+    },
+    {
+        "game_name": "Joggernauts",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/joggernauts"
+    },
+    {
+        "game_name": "Farming Simulator 19",
+        "game_price": "999 руб.",
+        "game_url": "https://steam-account.ru/oplata/farming-simulator-19"
+    },
+    {
+        "game_name": "Darkest Dungeon: Ancestral Edition",
+        "game_price": "740 руб.",
+        "game_url": "https://steam-account.ru/oplata/darkest-dungeon-ancestral-edition-steam-key"
+    },
+    {
+        "game_name": "Five Nights at Freddy's 2",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/five-nights-at-freddy-s-2-steam-account-shared-offline"
+    },
+    {
+        "game_name": "LEGO Marvel Super Heroes 2 Deluxe Edition",
+        "game_price": "560 руб.",
+        "game_url": "https://steam-account.ru/oplata/lego-marvel-super-heroes-2-deluxe-steam-key"
+    },
+    {
+        "game_name": "Europa Universalis IV: Origins",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-origins-key"
+    },
+    {
+        "game_name": "Indiana Jones and the Last Crusade",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/indiana-jones-and-the-last-crusade"
+    },
+    {
+        "game_name": "The Long Dark: Survival Edition",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-long-dark-survival-edition-steam-key"
+    },
+    {
+        "game_name": "Backbone",
+        "game_price": "159 руб.",
+        "game_url": "https://steam-account.ru/oplata/backbone"
+    },
+    {
+        "game_name": "//N.P.P.D. RUSH//- The milk of Ultraviolet",
+        "game_price": "12 руб.",
+        "game_url": "https://steam-account.ru/oplata/n-p-p-d-rush-the-milk-of-ultraviolet"
+    },
+    {
+        "game_name": "Costume Quest",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/costume-quest"
+    },
+    {
+        "game_name": "Acceleration of SUGURI 2",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/acceleration-of-suguri-2"
+    },
+    {
+        "game_name": "Raging Justice",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/raging-justice"
+    },
+    {
+        "game_name": "Project Zomboid - Турция",
+        "game_price": "330 руб.",
+        "game_url": "https://steam-account.ru/oplata/project-zomboid-key-turkey"
+    },
+    {
+        "game_name": "Wrack",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/wrack"
+    },
+    {
+        "game_name": "G.I. Joe: Operation Blackout",
+        "game_price": "499 руб.",
+        "game_url": "https://steam-account.ru/oplata/gi-joe-operation-blackout-steam-key"
+    },
+    {
+        "game_name": "Ghost Cleaner",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/ghost-cleaner"
+    },
+    {
+        "game_name": "STAY",
+        "game_price": "279 руб.",
+        "game_url": "https://steam-account.ru/oplata/stay-steam-key"
+    },
+    {
+        "game_name": "Street Heat",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/street-heat-steam-key"
+    },
+    {
+        "game_name": "The Falconeer",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-falconeer-steam-key"
+    },
+    {
+        "game_name": "Wintermoor Tactics Club",
+        "game_price": "539 руб.",
+        "game_url": "https://steam-account.ru/oplata/wintermoor-tactics-club"
+    },
+    {
+        "game_name": "Bombing Bastards",
+        "game_price": "45 руб.",
+        "game_url": "https://steam-account.ru/oplata/bombing-bastards"
+    },
+    {
+        "game_name": "Sudden Strike 4 - Africa: Desert War",
+        "game_price": "299 руб.",
+        "game_url": "https://steam-account.ru/oplata/sudden-strike-4-africa-desert-war"
+    },
+    {
+        "game_name": "Sudden Strike 4 - Road to Dunkirk",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/sudden-strike-4-road-to-dunkirk"
+    },
+    {
+        "game_name": "Nippon Marathon",
+        "game_price": "359 руб.",
+        "game_url": "https://steam-account.ru/oplata/nippon-marathon"
+    },
+    {
+        "game_name": "Tempest - Original Soundtrack",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/tempest-original-soundtrack"
+    },
+    {
+        "game_name": "Monster Monpiece",
+        "game_price": "188 руб.",
+        "game_url": "https://steam-account.ru/oplata/monster-monpiece"
+    },
+    {
+        "game_name": "Disney Mickey's Typing Adventure",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/disney-mickey-s-typing-adventure"
+    },
+    {
+        "game_name": "Momonga Pinball Adventures",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/momonga-pinball-adventures"
+    },
+    {
+        "game_name": "TT Isle of Man (TT Isle of Man Ride on the Edge)",
+        "game_price": "1595 руб.",
+        "game_url": "https://steam-account.ru/oplata/tt-isle-of-man-ride-on-the-edge"
+    },
+    {
+        "game_name": "Murder by Numbers",
+        "game_price": "349 руб.",
+        "game_url": "https://steam-account.ru/oplata/murder-by-numbers"
+    },
+    {
+        "game_name": "Cities: Skylines - Campus Rock",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-campus-rock"
+    },
+    {
+        "game_name": "Cities: Skylines - Downtown Radio",
+        "game_price": "75 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-skylines-downtown-radio"
+    },
+    {
+        "game_name": "Cally's Trials",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/cally-s-trials"
+    },
+    {
+        "game_name": "Cities in Motion: US Cities",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-us-cities"
+    },
+    {
+        "game_name": "Cities in Motion 2: Players Choice Vehicle Pack",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-2-players-choice-vehicle-pack"
+    },
+    {
+        "game_name": "Cities in Motion 2: European Vehicle Pack",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-2-european-vehicle-pack"
+    },
+    {
+        "game_name": "Cities in Motion: Tokyo",
+        "game_price": "129 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-tokyo-steam-key"
+    },
+    {
+        "game_name": "The Walking Dead",
+        "game_price": "230 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-steam-gift"
+    },
+    {
+        "game_name": "Kingdom Two Crowns",
+        "game_price": "165 руб.",
+        "game_url": "https://steam-account.ru/oplata/kingdom-two-crowns-steam-account-shared-online"
+    },
+    {
+        "game_name": "Battlepaths",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/battlepaths"
+    },
+    {
+        "game_name": "Ageless",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/ageless"
+    },
+    {
+        "game_name": "Tales of Arise",
+        "game_price": "1895 руб.",
+        "game_url": "https://steam-account.ru/oplata/tales-of-arise"
+    },
+    {
+        "game_name": "Lords of the Black Sun",
+        "game_price": "489 руб.",
+        "game_url": "https://steam-account.ru/oplata/lords-of-the-black-sun"
+    },
+    {
+        "game_name": "Burly Men at Sea",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/burly-men-at-sea"
+    },
+    {
+        "game_name": "Call of Duty: Advanced Warfare - Gold Edition",
+        "game_price": "490 руб.",
+        "game_url": "https://steam-account.ru/oplata/call-of-duty-advanced-warfare-gold-edition-steam-account"
+    },
+    {
+        "game_name": "Subterraneus",
+        "game_price": "194 руб.",
+        "game_url": "https://steam-account.ru/oplata/subterraneus"
+    },
+    {
+        "game_name": "Impulsion",
+        "game_price": "369 руб.",
+        "game_url": "https://steam-account.ru/oplata/impulsion"
+    },
+    {
+        "game_name": "Mr. DRILLER DrillLand",
+        "game_price": "554 руб.",
+        "game_url": "https://steam-account.ru/oplata/mr-driller-drillland"
+    },
+    {
+        "game_name": "KryptCrawler",
+        "game_price": "77 руб.",
+        "game_url": "https://steam-account.ru/oplata/kryptcrawler"
+    },
+    {
+        "game_name": "Rezrog",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/rezrog-steam-key"
+    },
+    {
+        "game_name": "Pro Cycling Manager 2020",
+        "game_price": "775 руб.",
+        "game_url": "https://steam-account.ru/oplata/pro-cycling-manager-2020-steam-key"
+    },
+    {
+        "game_name": "Cubikolor",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/cubikolor"
+    },
+    {
+        "game_name": "Hyperdevotion Noire: Goddess Black Heart",
+        "game_price": "360 руб.",
+        "game_url": "https://steam-account.ru/oplata/hyperdevotion-noire-goddess-black-heart"
+    },
+    {
+        "game_name": "Worms Reloaded: Time Attack Pack",
+        "game_price": "27 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-reloaded-time-attack-pack"
+    },
+    {
+        "game_name": "Marvel vs. Capcom: Infinite - Character Pass",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/marvel-vs-capcom-infinite-character-pass"
+    },
+    {
+        "game_name": "Acceleration of SUGURI 2",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/acceleration-of-suguri-2-account-steam"
+    },
+    {
+        "game_name": "Gumboy Tournament",
+        "game_price": "19 руб.",
+        "game_url": "https://steam-account.ru/oplata/gumboy-tournament"
+    },
+    {
+        "game_name": "The Sojourn",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-sojourn-steam-key"
+    },
+    {
+        "game_name": "Aliens versus Predator Classic 2000",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/aliens-versus-predator-classic-2000-steam-key"
+    },
+    {
+        "game_name": "Asteroid Bounty Hunter",
+        "game_price": "29 руб.",
+        "game_url": "https://steam-account.ru/oplata/asteroid-bounty-hunter"
+    },
+    {
+        "game_name": "Alien Breed 2: Assault",
+        "game_price": "25 руб.",
+        "game_url": "https://steam-account.ru/oplata/alien-breed-2-assault"
+    },
+    {
+        "game_name": "Meridian: Squad 22",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/meridian-squad-22"
+    },
+    {
+        "game_name": "Close Combat: The Bloody First",
+        "game_price": "660 руб.",
+        "game_url": "https://steam-account.ru/oplata/close-combat-the-bloody-first"
+    },
+    {
+        "game_name": "Age of Empires: Definitive Edition",
+        "game_price": "479 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-empires-definitive-edition-steam-key"
+    },
+    {
+        "game_name": "Marvel’s Guardians of the Galaxy",
+        "game_price": "2140 руб.",
+        "game_url": "https://steam-account.ru/oplata/marvels-guardians-of-the-galaxy-steam-key"
+    },
+    {
+        "game_name": "Control Craft 2",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/control-craft-2"
+    },
+    {
+        "game_name": "Asterix & Obelix XXL: Romastered",
+        "game_price": "199 руб.",
+        "game_url": "https://steam-account.ru/oplata/asterix-obelix-xxl-romastered"
+    },
+    {
+        "game_name": "Kingdom: New Lands",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/kingdom-new-lands"
+    },
+    {
+        "game_name": "Dungeon Rushers",
+        "game_price": "59 руб.",
+        "game_url": "https://steam-account.ru/oplata/dungeon-rushers"
+    },
+    {
+        "game_name": "Monster Sanctuary",
+        "game_price": "699 руб.",
+        "game_url": "https://steam-account.ru/oplata/monster-sanctuary"
+    },
+    {
+        "game_name": "Good Robot",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/good-robot"
+    },
+    {
+        "game_name": "The Red Solstice 2: Survivors",
+        "game_price": "240 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-red-solstice-2-survivors"
+    },
+    {
+        "game_name": "Surviving Mars: Marsvision Song Contest",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/surviving-mars-marsvision-song-contest"
+    },
+    {
+        "game_name": "Europa Universalis IV: Mare Nostrum Content Pack",
+        "game_price": "235 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-mare-nostrum-content-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Rights of Man Content Pack",
+        "game_price": "235 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-rights-of-man-content-pack"
+    },
+    {
+        "game_name": "Europa Universalis IV: Common Sense Content Pack",
+        "game_price": "235 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-common-sense-content-pack"
+    },
+    {
+        "game_name": "Praetorians - HD Remaster",
+        "game_price": "599 руб.",
+        "game_url": "https://steam-account.ru/oplata/praetorians-hd-remaster"
+    },
+    {
+        "game_name": "Europa Universalis IV: Catholic League Unit Pack",
+        "game_price": "49 руб.",
+        "game_url": "https://steam-account.ru/oplata/europa-universalis-iv-catholic-league-unit-pack"
+    },
+    {
+        "game_name": "Antigraviator",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/antigraviator"
+    },
+    {
+        "game_name": "Warhammer: Chaosbane",
+        "game_price": "319 руб.",
+        "game_url": "https://steam-account.ru/oplata/warhammer-chaosbane"
+    },
+    {
+        "game_name": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS",
+        "game_price": "1895 руб.",
+        "game_url": "https://steam-account.ru/oplata/zone-of-the-enders-the-2nd-runner-m-rs"
+    },
+    {
+        "game_name": "CryoFall + Supporter Pack",
+        "game_price": "99 руб.",
+        "game_url": "https://steam-account.ru/oplata/cryofall-steam-account-shared-offline"
+    },
+    {
+        "game_name": "Concrete Jungle",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/concrete-jungle"
+    },
+    {
+        "game_name": "Starship Corporation",
+        "game_price": "399 руб.",
+        "game_url": "https://steam-account.ru/oplata/starship-corporation"
+    },
+    {
+        "game_name": "Desert Child",
+        "game_price": "35 руб.",
+        "game_url": "https://steam-account.ru/oplata/desert-child-steam-key"
+    },
+    {
+        "game_name": "Control Craft 3",
+        "game_price": "9 руб.",
+        "game_url": "https://steam-account.ru/oplata/control-craft-3"
+    },
+    {
+        "game_name": "Mega Man 11",
+        "game_price": "799 руб.",
+        "game_url": "https://steam-account.ru/oplata/mega-man-11"
+    },
+    {
+        "game_name": "Football Manager 2021",
+        "game_price": "2399 руб.",
+        "game_url": "https://steam-account.ru/oplata/football-manager-2021-steam-key"
+    },
+    {
+        "game_name": "Pumpkin Jack",
+        "game_price": "229 руб.",
+        "game_url": "https://steam-account.ru/oplata/pumpkin-jack-steam-key"
+    },
+    {
+        "game_name": "Gravity Ghost",
+        "game_price": "119 руб.",
+        "game_url": "https://steam-account.ru/oplata/gravity-ghost"
+    },
+    {
+        "game_name": "Wrack",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/wrack"
+    },
+    {
+        "game_name": "Ghost Cleaner",
+        "game_price": "39 руб.",
+        "game_url": "https://steam-account.ru/oplata/ghost-cleaner"
+    },
+    {
+        "game_name": "Age of Wonders: Planetfall Season Pass",
+        "game_price": "651 руб.",
+        "game_url": "https://steam-account.ru/oplata/age-of-wonders-planetfall-season-pass"
+    },
+    {
+        "game_name": "Nira",
+        "game_price": "125 руб.",
+        "game_url": "https://steam-account.ru/oplata/nira-steam-key"
+    },
+    {
+        "game_name": "Monster Monpiece",
+        "game_price": "188 руб.",
+        "game_url": "https://steam-account.ru/oplata/monster-monpiece"
+    },
+    {
+        "game_name": "Momonga Pinball Adventures",
+        "game_price": "65 руб.",
+        "game_url": "https://steam-account.ru/oplata/momonga-pinball-adventures"
+    },
+    {
+        "game_name": "Popup Dungeon",
+        "game_price": "79 руб.",
+        "game_url": "https://steam-account.ru/oplata/popup-dungeon"
+    },
+    {
+        "game_name": "Cities in Motion 2: Wending Waterbuses",
+        "game_price": "95 руб.",
+        "game_url": "https://steam-account.ru/oplata/cities-in-motion-2-wending-waterbuses"
+    },
+    {
+        "game_name": "The Walking Dead",
+        "game_price": "230 руб.",
+        "game_url": "https://steam-account.ru/oplata/the-walking-dead-steam-gift"
+    },
+    {
+        "game_name": "WARBORN",
+        "game_price": "383 руб.",
+        "game_url": "https://steam-account.ru/oplata/warborn"
+    },
+    {
+        "game_name": "Next Up Hero",
+        "game_price": "55 руб.",
+        "game_url": "https://steam-account.ru/oplata/next-up-hero"
+    },
+    {
+        "game_name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!!",
+        "game_price": "495 руб.",
+        "game_url": "https://steam-account.ru/oplata/arcana-heart-3-lovemax-sixstars-steam-key"
+    },
+    {
+        "game_name": "Lost Horizon",
+        "game_price": "245 руб.",
+        "game_url": "https://steam-account.ru/oplata/lost-horizon"
+    },
+    {
+        "game_name": "Worms Reloaded: Puzzle Pack",
+        "game_price": "27 руб.",
+        "game_url": "https://steam-account.ru/oplata/worms-reloaded-puzzle-pack"
+    }
+]
