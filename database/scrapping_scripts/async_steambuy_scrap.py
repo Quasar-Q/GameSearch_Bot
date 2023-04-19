@@ -11,7 +11,7 @@ HEADERS = {"User-Agent": USER.random,
            "Accept": "application/json, text/javascript, */*; q=0.01"
            }
 COOKIE = {
-    "Cookie": "__sb3_c=5b00cc250f17e70bbb24364a0c0a3823; WhiteCallback_openedPages=JoaiY.zyUVP; __sbn_uhs=a%3A3%3A%7Bi%3A1338013%3Bi%3A1%3Bi%3A2540394%3Bi%3A1%3Bi%3A2262323%3Bi%3A1%3B%7D; _ym_uid=1675873831579415744; _ym_d=1675873831; _ga=GA1.2.1249122061.1675873831; __s3_huid=11784919; __s3_hses=342ffad45521b5d1831c8037f9dc78b9d68b630f; __f_sub=0.1.0.0.1677238640; __sb_privacy_policy=1; __sbn_c=3b437df78d394d8e71e2c989f8cb76c1.1592126.9c94d3b87f8d5a61e60cbdb1488ac062; WhiteCallback_updateMainPage=JoaiY; PHPSESSID=ab11682aa4b300a8b5941a5550d15405; WhiteCallback_visit=20938423090; WhiteCallback_timeAll=7371; WhiteCallback_timePage=7371; _gid=GA1.2.75767743.1681053998; _ym_isad=1; WhiteCallback_visitorId=11658181775; WhiteSaas_uniqueLead=no; _ym_visorc=w"
+    "Cookie": "CHECK YOUR COOKIE on url and PASTE IT"
 
 }
 game_list = []
