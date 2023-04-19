@@ -1,15 +1,15 @@
 import Data
-from scrapping_scripts import async_steampay_scrap as SP
-from scrapping_scripts import async_steambuy_scrap as SB
-from scrapping_scripts import async_steamaccount_scrap as SA
+from scrapping_scripts.async_steambuy_scrap import main as SB
+from scrapping_scripts.async_steampay_scrap import main as SP
+from scrapping_scripts.async_steamaccount_scrap import main as SA
 from schedule import every, repeat, run_pending
 
 
-@repeat(every().day.at("10:00"))
+@repeat(every().day.at("05:00"))
 def main():
-    SB.main()
-    SP.main()
-    SA.main()
+    SB()
+    SP()
+    SA()
     Data.main()
 
 

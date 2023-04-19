@@ -1,8 +1,8 @@
 import json, sqlite3
 
-PATHS = ['./steamaccount_game_list.json',
-         './steambuy_game_list.json',
-         './steampay_game_list.json']
+PATHS = ['scrapping_scripts/steamaccount_game_list.json',
+         'scrapping_scripts/steambuy_game_list.json',
+         'scrapping_scripts/steampay_game_list.json']
 
 GAME_LIST = []
 for path in PATHS:
