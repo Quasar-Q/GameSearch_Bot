@@ -11,7 +11,7 @@ HEADERS = {"User-Agent": USER.random,
            "Accept": "application/json, text/javascript, */*; q=0.01"
            }
 COOKIE = {
-    "Cookie": "CHECK YOUR COOKIE on url and PASTE IT"
+    "Cookie": "CHECK YOUR COOKIE on site and PASTE IT"
 
 }
 game_list = []
